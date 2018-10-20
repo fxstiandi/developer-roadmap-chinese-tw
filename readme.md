@@ -1,4 +1,4 @@
-![Web Developer Roadmap](./chinese-version/images/banner.png)
+![Web 開發人員路線圖](./chinese-version/images/banner.png)
 
 > 2018 年成為 Web 開發人員的路線圖
 
@@ -25,34 +25,27 @@
 
 ## 🚀 介紹
 
-![](./chinese-version/images/intro.png)
+![Web 開發人員路線圖介紹](./chinese-version/images/intro.png)
 
 ## 🎨 前端 Frontend 路線圖
 
-![](./chinese-version/images/frontend.png)
+![前端 Frontend 路線圖](./chinese-version/images/frontend.png)
 
 ## 👽 後端 Back-end 路線圖
 
-![](./chinese-version/images/backend.png)
+![後端 Back-end 路線圖](./chinese-version/images/backend.png)
 
 ## 👷 DevOps 路線圖
 
-![](./chinese-version/images/devops.png)
+![DevOps 路線圖](./chinese-version/images/devops.png)
 
 ## 🚦 總結
 
 如果你認為路線圖有可以改進的地方，請更新並開個 PR 或是送出 issue。另外，我也會繼續改進這個專案，所以你可能會想要 watch 或 star 這個專案以便再來觀看。
 
-## ☑ TODO
+## 🙌 貢獻
 
-- [X] 新增前端 Frontend 路線圖
-- [X] 新增後端 Backend 路線圖
-- [X] 新增 DevOps 路線圖
-- [ ] 為每個項目新增相關的資源
-
-## 👬 貢獻
-
-這些路線圖是用 [Balsamiq](https://balsamiq.com/products/mockups/) 建構的。專案文件可以在 `/project` 目錄中找到。要修改任何路線圖，請打開 Balsamiq，點選 **Project > Import > Mockup JSON**，它就會幫你開啟路線圖，更新他，在 readme 中上傳和更新這些圖片，並開啟一個 PR。
+> 到 [貢獻文件](./contributing.md) 看看怎麼更新這些路線圖
 
 - 改進並開啟 Pull Request
 - 在 Issue 中討論想法

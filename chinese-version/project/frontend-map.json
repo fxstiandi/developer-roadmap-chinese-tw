@@ -2582,7 +2582,7 @@
                     "y": "504",
                     "properties": {
                         "size": "17",
-                        "text": "瞭解 Ajax（XHR）"
+                        "text": "瞭解 Fetch API 和 Ajax（XHR）"
                     }
                 },
                 {
@@ -2916,7 +2916,7 @@
                     "properties": {
                         "bold": "true",
                         "size": "18",
-                        "text": "NPM"
+                        "text": "npm"
                     }
                 },
                 {
@@ -3408,7 +3408,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "Webpack"
+                        "text": "webpack"
                     }
                 },
                 {
@@ -3495,7 +3495,7 @@
                     "y": "2200",
                     "properties": {
                         "size": "17",
-                        "text": "你現在不需要 Rollup 了，Webpack 就可以完成所有任務，"
+                        "text": "你現在不需要 Rollup 了，webpack 就可以完成所有任務，"
                     }
                 },
                 {
@@ -3742,7 +3742,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "Mobx"
+                        "text": "MobX"
                     }
                 },
                 {
@@ -3856,7 +3856,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "Rx.js"
+                        "text": "RxJS"
                     }
                 },
                 {
@@ -3898,7 +3898,7 @@
                     "y": "2746",
                     "properties": {
                         "size": "17",
-                        "text": "Rx.js 是個非常棒的函式庫，"
+                        "text": "RxJS 是個非常棒的函式庫，"
                     }
                 },
                 {
@@ -4206,7 +4206,7 @@
                         "align": "center",
                         "color": "16776960",
                         "size": "18",
-                        "text": "vuex"
+                        "text": "Vuex"
                     }
                 },
                 {
