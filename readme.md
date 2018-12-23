@@ -7,7 +7,18 @@
 <sub>看看我的[部落格](http://kamranahmed.info)，然後來 [Twitter](https://twitter.com/kamranahmedse) 說聲 "hi"。</sub><br>
 <sub>（譯註：也歡迎來逛逛譯者的[部落格](http://goodjack.blogspot.com/)，然後來 [Twitter](https://twitter.com/littlegoodjack) 打個招呼 :P）</sub>
 
-## 🌏 台灣正體中文翻譯前言
+## 🌏 台灣正體中文翻譯狀態
+
+### 狀態徽章
+
+| 原著最後更新時間 | 本翻譯最後更新時間 |
+| :-----------: | :-------------: |
+| [![](https://img.shields.io/github/last-commit/kamranahmedse/developer-roadmap.svg?style=for-the-badge)](https://github.com/kamranahmedse/developer-roadmap) | [![](https://img.shields.io/github/last-commit/goodjack/developer-roadmap-chinese.svg?style=for-the-badge)](https://github.com/goodjack/developer-roadmap-chinese)
+
+### 更新日誌
+* [`67a72aa`](https://github.com/kamranahmedse/developer-roadmap/commit/67a72aab113e79c11e292ada394606f079f6a263) 新增 DevOps 容器協作，並推薦 Kubernetes。
+
+## 💬 譯者前言
 嗨大家好我是小克 👋，從 2017 年開始注意到這個 repo 覺得獲益良多，所以就試著翻譯看看，分享給更多需要的人。由於這裡是翻譯 repo，關於內容的任何建議，推薦你直接回饋給 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)，當然需要我協助也是可以的 :D
 
 這裡的中文都盡量使用 **台灣用語及術語**，資訊相關的術語都會在翻譯旁保留原文供參考。中文排版皆盡可能地依循 [**中文文案排版指北**](https://github.com/sparanoid/chinese-copywriting-guidelines)（若有不符的地方請跟我說）。
@@ -18,7 +29,7 @@
 
 接受任何意見回饋 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/littlegoodjack.svg?style=social&label=Follow%20@littlegoodjack)](https://twitter.com/littlegoodjack)
 
-<sub>小小的推廣拙作：[小克的 Visual Studio Code 必裝擴充套件（Extensions）私藏推薦](http://goodjack.blogspot.com/2018/03/visual-studio-code-extensions.html)</sub>
+> <sub>小小的推廣拙作：[小克的 Visual Studio Code 必裝擴充套件（Extensions）私藏推薦](http://goodjack.blogspot.com/2018/03/visual-studio-code-extensions.html)</sub>
 
 ## 免責聲明
 > 這個路線圖的目的是給你一個輪廓，並在你困惑接下來該學什麼的時候指導你。而不是鼓勵你學習很潮很流行的東西。你應該要更加了解，為什麼某個工具會比其他的工具更適合用在一些情況，並記住潮和流行，從來就不代表它是最適合完成任務的工具。
