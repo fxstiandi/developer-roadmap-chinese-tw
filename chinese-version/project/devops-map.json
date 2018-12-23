@@ -4,48 +4,98 @@
             "control": [
                 {
                     "ID": "0",
-                    "typeID": "Label",
+                    "typeID": "Arrow",
                     "zOrder": "0",
-                    "measuredW": "133",
-                    "measuredH": "25",
-                    "x": "849",
-                    "y": "135",
+                    "w": "43",
+                    "h": "54",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "1006",
+                    "y": "1480",
                     "properties": {
-                        "bold": "true",
-                        "color": "10027263",
-                        "size": "17",
-                        "text": "kamranahmedse"
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "top",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5684273538382603,
+                            "y": -0.01687523160685284
+                        },
+                        "p2": {
+                            "x": 42,
+                            "y": 53
+                        },
+                        "rightArrow": "false",
+                        "shape": "bezier",
+                        "stroke": "dotted"
                     }
                 },
                 {
                     "ID": "1",
-                    "typeID": "Icon",
+                    "typeID": "Arrow",
                     "zOrder": "1",
-                    "measuredW": "32",
-                    "measuredH": "32",
-                    "x": "809",
-                    "y": "89",
+                    "w": "44",
+                    "h": "65",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "953",
+                    "y": "1470",
                     "properties": {
-                        "color": "10027263",
-                        "icon": {
-                            "ID": "github",
-                            "size": "medium"
-                        }
+                        "color": "2848996",
+                        "curvature": "1",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 43,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.56842735383826,
+                            "y": -0.0168752316068528
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 64
+                        },
+                        "rightArrow": "false",
+                        "shape": "bezier",
+                        "stroke": "dotted"
                     }
                 },
                 {
                     "ID": "2",
-                    "typeID": "Label",
+                    "typeID": "Arrow",
                     "zOrder": "2",
-                    "measuredW": "294",
-                    "measuredH": "25",
-                    "x": "848",
-                    "y": "83",
+                    "w": "210",
+                    "h": "64",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "1024",
+                    "y": "1391",
                     "properties": {
-                        "bold": "true",
-                        "color": "10027263",
-                        "size": "17",
-                        "text": "kamranahmedse/developer-roadmap"
+                        "color": "2848996",
+                        "curvature": "1",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.6469975327179537,
+                            "y": 0.10750144461308028
+                        },
+                        "p2": {
+                            "x": 210,
+                            "y": 64
+                        },
+                        "rightArrow": "false",
+                        "shape": "bezier",
+                        "stroke": "dotted"
                     }
                 },
                 {
@@ -115,28 +165,28 @@
                     "ID": "5",
                     "typeID": "Arrow",
                     "zOrder": "5",
-                    "w": "62",
-                    "h": "81",
+                    "w": "42",
+                    "h": "57",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "665",
-                    "y": "1874",
+                    "x": "658",
+                    "y": "1880",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
                         "direction": "bottom",
                         "leftArrow": "false",
                         "p0": {
-                            "x": 61,
+                            "x": 41.6666666666672,
                             "y": 0
                         },
                         "p1": {
-                            "x": 0.594111253828673,
-                            "y": 0.040509831044363204
+                            "x": 0.5941112538286728,
+                            "y": 0.040509831044363065
                         },
                         "p2": {
                             "x": 0,
-                            "y": 80
+                            "y": 56.66666666666674
                         },
                         "rightArrow": "false",
                         "shape": "bezier",
@@ -179,20 +229,20 @@
                     "ID": "7",
                     "typeID": "Arrow",
                     "zOrder": "7",
-                    "w": "68",
-                    "h": "45",
+                    "w": "43",
+                    "h": "1",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "655",
-                    "y": "1867",
+                    "x": "654",
+                    "y": "1864",
                     "properties": {
                         "color": "2848996",
                         "curvature": "1",
                         "direction": "bottom",
                         "leftArrow": "false",
                         "p0": {
-                            "x": 67,
-                            "y": 0
+                            "x": 42.66666666666663,
+                            "y": 1.328384025265565
                         },
                         "p1": {
                             "x": 0.5684273538382602,
@@ -200,7 +250,7 @@
                         },
                         "p2": {
                             "x": 0,
-                            "y": 44
+                            "y": 0.383271768326493
                         },
                         "rightArrow": "false",
                         "shape": "bezier",
@@ -211,28 +261,28 @@
                     "ID": "8",
                     "typeID": "Arrow",
                     "zOrder": "8",
-                    "w": "67",
-                    "h": "5",
+                    "w": "39",
+                    "h": "43",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "659",
-                    "y": "1862",
+                    "x": "657",
+                    "y": "1821",
                     "properties": {
                         "color": "2848996",
                         "curvature": "1",
                         "direction": "bottom",
                         "leftArrow": "false",
                         "p0": {
-                            "x": 66,
-                            "y": 0
+                            "x": 39,
+                            "y": 43
                         },
                         "p1": {
-                            "x": 0.5684273538382602,
-                            "y": -0.016875231606852732
+                            "x": 0.5684273538382603,
+                            "y": -0.016875231606852777
                         },
                         "p2": {
                             "x": 0,
-                            "y": 4
+                            "y": 0
                         },
                         "rightArrow": "false",
                         "shape": "bezier",
@@ -243,27 +293,27 @@
                     "ID": "9",
                     "typeID": "Arrow",
                     "zOrder": "9",
-                    "w": "63",
-                    "h": "35",
+                    "w": "39",
+                    "h": "34",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "663",
-                    "y": "1821",
+                    "x": "657",
+                    "y": "1871",
                     "properties": {
                         "color": "2848996",
                         "curvature": "1",
                         "direction": "top",
                         "leftArrow": "false",
                         "p0": {
-                            "x": 62,
-                            "y": 34
+                            "x": 0,
+                            "y": 33.66666666666674
                         },
                         "p1": {
-                            "x": 0.4988,
+                            "x": 0.4988000000000001,
                             "y": 0.0316
                         },
                         "p2": {
-                            "x": 0,
+                            "x": 39.410516128244716,
                             "y": 0
                         },
                         "rightArrow": "false",
@@ -275,24 +325,24 @@
                     "ID": "10",
                     "typeID": "Arrow",
                     "zOrder": "10",
-                    "w": "22",
-                    "h": "112",
+                    "w": "12",
+                    "h": "107",
                     "measuredW": "150",
                     "measuredH": "100",
                     "x": "763",
-                    "y": "1745",
+                    "y": "1750",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
                         "direction": "top",
                         "leftArrow": "false",
                         "p0": {
-                            "x": 21,
-                            "y": 111
+                            "x": 12.333333333333371,
+                            "y": 107.33333333333326
                         },
                         "p1": {
-                            "x": 0.5684273538382597,
-                            "y": -0.01687523160685277
+                            "x": 0.5684273538382596,
+                            "y": -0.016875231606852795
                         },
                         "p2": {
                             "x": 0,
@@ -311,8 +361,8 @@
                     "h": "76",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "996",
-                    "y": "1780",
+                    "x": "1004",
+                    "y": "1804",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -339,27 +389,27 @@
                     "ID": "12",
                     "typeID": "Arrow",
                     "zOrder": "12",
-                    "w": "11",
-                    "h": "76",
+                    "w": "2",
+                    "h": "69",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "989",
-                    "y": "1783",
+                    "x": "990",
+                    "y": "1797",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
                         "direction": "top",
                         "leftArrow": "false",
                         "p0": {
-                            "x": 10,
-                            "y": 75
+                            "x": 0,
+                            "y": 69.00000000000045
                         },
                         "p1": {
                             "x": 0.5684273538382597,
-                            "y": -0.016875231606852753
+                            "y": -0.016875231606852746
                         },
                         "p2": {
-                            "x": 0,
+                            "x": 1.3333333333333712,
                             "y": 0
                         },
                         "rightArrow": "false",
@@ -371,24 +421,24 @@
                     "ID": "13",
                     "typeID": "Arrow",
                     "zOrder": "13",
-                    "w": "80",
-                    "h": "86",
+                    "w": "112",
+                    "h": "165",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1015",
-                    "y": "1720",
+                    "x": "1047",
+                    "y": "1706",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
                         "direction": "top",
                         "leftArrow": "false",
                         "p0": {
-                            "x": 79,
-                            "y": 85
+                            "x": 112.33333333333326,
+                            "y": 165.33333333333326
                         },
                         "p1": {
-                            "x": 0.56842735383826,
-                            "y": -0.01687523160685295
+                            "x": 0.5684273538382603,
+                            "y": -0.016875231606852836
                         },
                         "p2": {
                             "x": 0,
@@ -403,8 +453,8 @@
                     "ID": "14",
                     "typeID": "Arrow",
                     "zOrder": "14",
-                    "w": "75",
-                    "h": "35",
+                    "w": "112",
+                    "h": "50",
                     "measuredW": "150",
                     "measuredH": "100",
                     "x": "753",
@@ -415,12 +465,12 @@
                         "direction": "top",
                         "leftArrow": "false",
                         "p0": {
-                            "x": 74,
-                            "y": 34
+                            "x": 112.33333333333337,
+                            "y": 49.66666666666674
                         },
                         "p1": {
                             "x": 0.56842735383826,
-                            "y": -0.01687523160685277
+                            "y": -0.01687523160685275
                         },
                         "p2": {
                             "x": 0,
@@ -435,24 +485,24 @@
                     "ID": "15",
                     "typeID": "Arrow",
                     "zOrder": "15",
-                    "w": "81",
-                    "h": "56",
+                    "w": "104",
+                    "h": "112",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1021",
-                    "y": "1711",
+                    "x": "1055",
+                    "y": "1715",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
                         "direction": "top",
                         "leftArrow": "false",
                         "p0": {
-                            "x": 80,
-                            "y": 55
+                            "x": 104.33333333333326,
+                            "y": 111.66666666666674
                         },
                         "p1": {
-                            "x": 0.56842735383826,
-                            "y": -0.01687523160685282
+                            "x": 0.5684273538382603,
+                            "y": -0.01687523160685287
                         },
                         "p2": {
                             "x": 0,
@@ -467,11 +517,11 @@
                     "ID": "16",
                     "typeID": "Arrow",
                     "zOrder": "16",
-                    "w": "67",
-                    "h": "17",
+                    "w": "103",
+                    "h": "72",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1031",
+                    "x": "1057",
                     "y": "1709",
                     "properties": {
                         "color": "2848996",
@@ -479,12 +529,12 @@
                         "direction": "top",
                         "leftArrow": "false",
                         "p0": {
-                            "x": 66,
-                            "y": 16
+                            "x": 103,
+                            "y": 72.33333333333326
                         },
                         "p1": {
-                            "x": 0.5684273538382602,
-                            "y": -0.016875231606852788
+                            "x": 0.5684273538382603,
+                            "y": -0.016875231606852687
                         },
                         "p2": {
                             "x": 0,
@@ -499,28 +549,28 @@
                     "ID": "17",
                     "typeID": "Arrow",
                     "zOrder": "17",
-                    "w": "76",
-                    "h": "18",
+                    "w": "105",
+                    "h": "36",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1021",
-                    "y": "1682",
+                    "x": "1058",
+                    "y": "1701",
                     "properties": {
                         "color": "2848996",
                         "curvature": "1",
                         "direction": "bottom",
                         "leftArrow": "false",
                         "p0": {
-                            "x": 75,
-                            "y": 0
+                            "x": 104.66666666666674,
+                            "y": 35.66666666666674
                         },
                         "p1": {
-                            "x": 0.5684273538382599,
-                            "y": -0.016875231606852777
+                            "x": 0.56842735383826,
+                            "y": -0.01687523160685275
                         },
                         "p2": {
                             "x": 0,
-                            "y": 17
+                            "y": 0
                         },
                         "rightArrow": "false",
                         "shape": "bezier",
@@ -531,28 +581,28 @@
                     "ID": "18",
                     "typeID": "Arrow",
                     "zOrder": "18",
-                    "w": "84",
-                    "h": "57",
+                    "w": "98",
+                    "h": "2",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1012",
-                    "y": "1639",
+                    "x": "1054",
+                    "y": "1691",
                     "properties": {
                         "color": "2848996",
                         "curvature": "1",
                         "direction": "bottom",
                         "leftArrow": "false",
                         "p0": {
-                            "x": 83,
-                            "y": 0
+                            "x": 98.3333333333344,
+                            "y": 0.9516147139185223
                         },
                         "p1": {
-                            "x": 0.56842735383826,
-                            "y": -0.01687523160685276
+                            "x": 0.5684273538382602,
+                            "y": -0.016875231606852763
                         },
                         "p2": {
                             "x": 0,
-                            "y": 56
+                            "y": 2.330316019519209
                         },
                         "rightArrow": "false",
                         "shape": "bezier",
@@ -670,24 +720,9 @@
                     }
                 },
                 {
-                    "ID": "23",
-                    "typeID": "Label",
-                    "zOrder": "23",
-                    "w": "156",
-                    "measuredW": "150",
-                    "measuredH": "23",
-                    "x": "923",
-                    "y": "880",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "從原始碼編譯應用程式"
-                    }
-                },
-                {
                     "ID": "24",
                     "typeID": "TextArea",
-                    "zOrder": "24",
+                    "zOrder": "23",
                     "w": "188",
                     "h": "41",
                     "measuredW": "200",
@@ -699,39 +734,9 @@
                     }
                 },
                 {
-                    "ID": "25",
-                    "typeID": "Label",
-                    "zOrder": "25",
-                    "w": "111",
-                    "measuredW": "105",
-                    "measuredH": "23",
-                    "x": "901",
-                    "y": "793",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "學習 Bash 腳本"
-                    }
-                },
-                {
-                    "ID": "26",
-                    "typeID": "Label",
-                    "zOrder": "26",
-                    "w": "242",
-                    "measuredW": "234",
-                    "measuredH": "23",
-                    "x": "880",
-                    "y": "900",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "（gcc、make 和其他相關的東西）"
-                    }
-                },
-                {
                     "ID": "27",
                     "typeID": "TextArea",
-                    "zOrder": "27",
+                    "zOrder": "24",
                     "w": "230",
                     "h": "40",
                     "measuredW": "200",
@@ -745,7 +750,7 @@
                 {
                     "ID": "28",
                     "typeID": "Label",
-                    "zOrder": "28",
+                    "zOrder": "25",
                     "w": "211",
                     "measuredW": "207",
                     "measuredH": "23",
@@ -760,7 +765,7 @@
                 {
                     "ID": "29",
                     "typeID": "TextArea",
-                    "zOrder": "29",
+                    "zOrder": "26",
                     "w": "270",
                     "h": "104",
                     "measuredW": "200",
@@ -774,7 +779,7 @@
                 {
                     "ID": "30",
                     "typeID": "TextArea",
-                    "zOrder": "30",
+                    "zOrder": "27",
                     "w": "218",
                     "h": "40",
                     "measuredW": "200",
@@ -787,26 +792,11 @@
                     }
                 },
                 {
-                    "ID": "31",
-                    "typeID": "Label",
-                    "zOrder": "31",
-                    "w": "96",
-                    "measuredW": "90",
-                    "measuredH": "23",
-                    "x": "670",
-                    "y": "797",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "文字處理工具"
-                    }
-                },
-                {
                     "ID": "32",
                     "typeID": "Label",
-                    "zOrder": "32",
+                    "zOrder": "28",
                     "w": "231",
-                    "measuredW": "223",
+                    "measuredW": "224",
                     "measuredH": "22",
                     "x": "604",
                     "y": "831",
@@ -819,7 +809,7 @@
                 {
                     "ID": "33",
                     "typeID": "Label",
-                    "zOrder": "33",
+                    "zOrder": "29",
                     "w": "228",
                     "measuredW": "208",
                     "measuredH": "22",
@@ -834,7 +824,7 @@
                 {
                     "ID": "34",
                     "typeID": "TextArea",
-                    "zOrder": "34",
+                    "zOrder": "30",
                     "w": "268",
                     "h": "78",
                     "measuredW": "200",
@@ -848,7 +838,7 @@
                 {
                     "ID": "35",
                     "typeID": "TextArea",
-                    "zOrder": "35",
+                    "zOrder": "31",
                     "w": "218",
                     "h": "40",
                     "measuredW": "200",
@@ -861,26 +851,11 @@
                     }
                 },
                 {
-                    "ID": "36",
-                    "typeID": "Label",
-                    "zOrder": "36",
-                    "w": "157",
-                    "measuredW": "148",
-                    "measuredH": "23",
-                    "x": "648",
-                    "y": "905",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "行程（Process）監控"
-                    }
-                },
-                {
                     "ID": "37",
                     "typeID": "Label",
-                    "zOrder": "37",
+                    "zOrder": "32",
                     "w": "159",
-                    "measuredW": "145",
+                    "measuredW": "146",
                     "measuredH": "22",
                     "x": "647",
                     "y": "938",
@@ -893,7 +868,7 @@
                 {
                     "ID": "38",
                     "typeID": "TextArea",
-                    "zOrder": "38",
+                    "zOrder": "33",
                     "w": "229",
                     "h": "78",
                     "measuredW": "200",
@@ -907,7 +882,7 @@
                 {
                     "ID": "39",
                     "typeID": "TextArea",
-                    "zOrder": "39",
+                    "zOrder": "34",
                     "w": "218",
                     "h": "40",
                     "measuredW": "200",
@@ -920,24 +895,9 @@
                     }
                 },
                 {
-                    "ID": "40",
-                    "typeID": "Label",
-                    "zOrder": "40",
-                    "w": "69",
-                    "measuredW": "60",
-                    "measuredH": "23",
-                    "x": "940",
-                    "y": "953",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "系統性能"
-                    }
-                },
-                {
                     "ID": "41",
                     "typeID": "Label",
-                    "zOrder": "41",
+                    "zOrder": "35",
                     "w": "172",
                     "measuredW": "163",
                     "measuredH": "22",
@@ -952,7 +912,7 @@
                 {
                     "ID": "42",
                     "typeID": "TextArea",
-                    "zOrder": "42",
+                    "zOrder": "36",
                     "w": "268",
                     "h": "126",
                     "measuredW": "200",
@@ -966,7 +926,7 @@
                 {
                     "ID": "43",
                     "typeID": "TextArea",
-                    "zOrder": "43",
+                    "zOrder": "37",
                     "w": "218",
                     "h": "40",
                     "measuredW": "200",
@@ -979,26 +939,11 @@
                     }
                 },
                 {
-                    "ID": "44",
-                    "typeID": "Label",
-                    "zOrder": "44",
-                    "w": "33",
-                    "measuredW": "30",
-                    "measuredH": "23",
-                    "x": "701",
-                    "y": "992",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "網路"
-                    }
-                },
-                {
                     "ID": "45",
                     "typeID": "Label",
-                    "zOrder": "45",
+                    "zOrder": "38",
                     "w": "243",
-                    "measuredW": "239",
+                    "measuredW": "240",
                     "measuredH": "22",
                     "x": "598",
                     "y": "1028",
@@ -1011,9 +956,9 @@
                 {
                     "ID": "46",
                     "typeID": "Label",
-                    "zOrder": "46",
+                    "zOrder": "39",
                     "w": "204",
-                    "measuredW": "199",
+                    "measuredW": "200",
                     "measuredH": "22",
                     "x": "617",
                     "y": "1050",
@@ -1026,7 +971,7 @@
                 {
                     "ID": "47",
                     "typeID": "TextArea",
-                    "zOrder": "47",
+                    "zOrder": "40",
                     "w": "285",
                     "h": "78",
                     "measuredW": "200",
@@ -1040,7 +985,7 @@
                 {
                     "ID": "48",
                     "typeID": "TextArea",
-                    "zOrder": "48",
+                    "zOrder": "41",
                     "w": "76",
                     "h": "40",
                     "measuredW": "200",
@@ -1053,26 +998,11 @@
                     }
                 },
                 {
-                    "ID": "49",
-                    "typeID": "Label",
-                    "zOrder": "49",
-                    "w": "34",
-                    "measuredW": "30",
-                    "measuredH": "23",
-                    "x": "885",
-                    "y": "1047",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "其他"
-                    }
-                },
-                {
                     "ID": "50",
                     "typeID": "Label",
-                    "zOrder": "50",
+                    "zOrder": "42",
                     "w": "172",
-                    "measuredW": "170",
+                    "measuredW": "171",
                     "measuredH": "22",
                     "x": "954",
                     "y": "1039",
@@ -1085,9 +1015,9 @@
                 {
                     "ID": "51",
                     "typeID": "Label",
-                    "zOrder": "51",
+                    "zOrder": "43",
                     "w": "172",
-                    "measuredW": "115",
+                    "measuredW": "116",
                     "measuredH": "22",
                     "x": "954",
                     "y": "1059",
@@ -1100,29 +1030,29 @@
                 {
                     "ID": "52",
                     "typeID": "Arrow",
-                    "zOrder": "52",
-                    "w": "61",
-                    "h": "38",
+                    "zOrder": "44",
+                    "w": "108",
+                    "h": "33",
                     "measuredW": "150",
                     "measuredH": "100",
                     "x": "763",
-                    "y": "1697",
+                    "y": "1701",
                     "properties": {
                         "color": "2848996",
                         "curvature": "1",
                         "direction": "bottom",
                         "leftArrow": "false",
                         "p0": {
-                            "x": 60,
+                            "x": 108,
                             "y": 0
                         },
                         "p1": {
-                            "x": 0.56842735383826,
-                            "y": -0.016875231606852784
+                            "x": 0.5684273538382599,
+                            "y": -0.016875231606852767
                         },
                         "p2": {
                             "x": 0,
-                            "y": 37
+                            "y": 33
                         },
                         "rightArrow": "false",
                         "shape": "bezier",
@@ -1132,7 +1062,7 @@
                 {
                     "ID": "53",
                     "typeID": "Arrow",
-                    "zOrder": "53",
+                    "zOrder": "45",
                     "w": "74",
                     "h": "219",
                     "measuredW": "150",
@@ -1164,7 +1094,7 @@
                 {
                     "ID": "54",
                     "typeID": "Arrow",
-                    "zOrder": "54",
+                    "zOrder": "46",
                     "w": "7",
                     "h": "58",
                     "measuredW": "150",
@@ -1196,7 +1126,7 @@
                 {
                     "ID": "55",
                     "typeID": "Arrow",
-                    "zOrder": "55",
+                    "zOrder": "47",
                     "w": "352",
                     "h": "104",
                     "measuredW": "150",
@@ -1228,7 +1158,7 @@
                 {
                     "ID": "56",
                     "typeID": "Arrow",
-                    "zOrder": "56",
+                    "zOrder": "48",
                     "w": "208",
                     "h": "55",
                     "measuredW": "150",
@@ -1260,7 +1190,7 @@
                 {
                     "ID": "57",
                     "typeID": "Arrow",
-                    "zOrder": "57",
+                    "zOrder": "49",
                     "w": "43",
                     "h": "54",
                     "measuredW": "150",
@@ -1292,7 +1222,7 @@
                 {
                     "ID": "58",
                     "typeID": "Arrow",
-                    "zOrder": "58",
+                    "zOrder": "50",
                     "w": "44",
                     "h": "65",
                     "measuredW": "150",
@@ -1324,7 +1254,7 @@
                 {
                     "ID": "59",
                     "typeID": "Arrow",
-                    "zOrder": "59",
+                    "zOrder": "51",
                     "w": "37",
                     "h": "70",
                     "measuredW": "150",
@@ -1356,13 +1286,13 @@
                 {
                     "ID": "60",
                     "typeID": "Arrow",
-                    "zOrder": "60",
+                    "zOrder": "52",
                     "w": "3",
                     "h": "66",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1056",
-                    "y": "1470",
+                    "x": "1232",
+                    "y": "1475",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1388,29 +1318,29 @@
                 {
                     "ID": "61",
                     "typeID": "Arrow",
-                    "zOrder": "61",
-                    "w": "3",
-                    "h": "66",
+                    "zOrder": "53",
+                    "w": "32",
+                    "h": "45",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "946",
-                    "y": "1470",
+                    "x": "964",
+                    "y": "1408",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
                         "direction": "top",
                         "leftArrow": "false",
                         "p0": {
-                            "x": 1,
+                            "x": 0,
                             "y": 0
                         },
                         "p1": {
-                            "x": 0.56842735383826,
+                            "x": 0.5684273538382599,
                             "y": -0.01687523160685271
                         },
                         "p2": {
-                            "x": 2,
-                            "y": 65
+                            "x": 32,
+                            "y": 45
                         },
                         "rightArrow": "false",
                         "shape": "bezier",
@@ -1420,39 +1350,7 @@
                 {
                     "ID": "62",
                     "typeID": "Arrow",
-                    "zOrder": "62",
-                    "w": "3",
-                    "h": "66",
-                    "measuredW": "150",
-                    "measuredH": "100",
-                    "x": "971",
-                    "y": "1404",
-                    "properties": {
-                        "color": "2848996",
-                        "curvature": "-1",
-                        "direction": "top",
-                        "leftArrow": "false",
-                        "p0": {
-                            "x": 1,
-                            "y": 0
-                        },
-                        "p1": {
-                            "x": 0.56842735383826,
-                            "y": -0.01687523160685271
-                        },
-                        "p2": {
-                            "x": 2,
-                            "y": 65
-                        },
-                        "rightArrow": "false",
-                        "shape": "bezier",
-                        "stroke": "dotted"
-                    }
-                },
-                {
-                    "ID": "63",
-                    "typeID": "Arrow",
-                    "zOrder": "63",
+                    "zOrder": "54",
                     "w": "7",
                     "h": "71",
                     "measuredW": "150",
@@ -1482,9 +1380,9 @@
                     }
                 },
                 {
-                    "ID": "64",
+                    "ID": "63",
                     "typeID": "Arrow",
-                    "zOrder": "64",
+                    "zOrder": "55",
                     "w": "79",
                     "h": "64",
                     "measuredW": "150",
@@ -1514,9 +1412,9 @@
                     }
                 },
                 {
-                    "ID": "65",
+                    "ID": "64",
                     "typeID": "Arrow",
-                    "zOrder": "65",
+                    "zOrder": "56",
                     "w": "35",
                     "h": "47",
                     "measuredW": "150",
@@ -1546,9 +1444,9 @@
                     }
                 },
                 {
-                    "ID": "66",
+                    "ID": "65",
                     "typeID": "Arrow",
-                    "zOrder": "66",
+                    "zOrder": "57",
                     "w": "46",
                     "h": "48",
                     "measuredW": "150",
@@ -1578,9 +1476,9 @@
                     }
                 },
                 {
-                    "ID": "67",
+                    "ID": "66",
                     "typeID": "Arrow",
-                    "zOrder": "67",
+                    "zOrder": "58",
                     "w": "125",
                     "h": "34",
                     "measuredW": "150",
@@ -1610,9 +1508,9 @@
                     }
                 },
                 {
-                    "ID": "68",
+                    "ID": "67",
                     "typeID": "Arrow",
-                    "zOrder": "68",
+                    "zOrder": "59",
                     "w": "78",
                     "h": "45",
                     "measuredW": "150",
@@ -1642,9 +1540,9 @@
                     }
                 },
                 {
-                    "ID": "69",
+                    "ID": "68",
                     "typeID": "Arrow",
-                    "zOrder": "69",
+                    "zOrder": "60",
                     "w": "91",
                     "h": "40",
                     "measuredW": "150",
@@ -1674,9 +1572,9 @@
                     }
                 },
                 {
-                    "ID": "70",
+                    "ID": "69",
                     "typeID": "Arrow",
-                    "zOrder": "70",
+                    "zOrder": "61",
                     "w": "3",
                     "h": "57",
                     "measuredW": "150",
@@ -1706,9 +1604,9 @@
                     }
                 },
                 {
-                    "ID": "71",
+                    "ID": "70",
                     "typeID": "Arrow",
-                    "zOrder": "71",
+                    "zOrder": "62",
                     "h": "220",
                     "measuredW": "150",
                     "measuredH": "100",
@@ -1737,9 +1635,9 @@
                     }
                 },
                 {
-                    "ID": "72",
+                    "ID": "71",
                     "typeID": "Arrow",
-                    "zOrder": "72",
+                    "zOrder": "63",
                     "w": "3",
                     "h": "95",
                     "measuredW": "150",
@@ -1769,9 +1667,9 @@
                     }
                 },
                 {
-                    "ID": "73",
+                    "ID": "72",
                     "typeID": "Arrow",
-                    "zOrder": "73",
+                    "zOrder": "64",
                     "w": "80",
                     "h": "53",
                     "measuredW": "150",
@@ -1801,9 +1699,9 @@
                     }
                 },
                 {
-                    "ID": "74",
+                    "ID": "73",
                     "typeID": "Arrow",
-                    "zOrder": "74",
+                    "zOrder": "65",
                     "w": "84",
                     "h": "96",
                     "measuredW": "150",
@@ -1833,9 +1731,9 @@
                     }
                 },
                 {
-                    "ID": "75",
+                    "ID": "74",
                     "typeID": "Arrow",
-                    "zOrder": "75",
+                    "zOrder": "66",
                     "w": "76",
                     "h": "60",
                     "measuredW": "150",
@@ -1865,9 +1763,9 @@
                     }
                 },
                 {
-                    "ID": "76",
+                    "ID": "75",
                     "typeID": "Arrow",
-                    "zOrder": "76",
+                    "zOrder": "67",
                     "w": "72",
                     "h": "16",
                     "measuredW": "150",
@@ -1897,9 +1795,9 @@
                     }
                 },
                 {
-                    "ID": "77",
+                    "ID": "76",
                     "typeID": "Arrow",
-                    "zOrder": "77",
+                    "zOrder": "68",
                     "w": "75",
                     "h": "19",
                     "measuredW": "150",
@@ -1929,9 +1827,9 @@
                     }
                 },
                 {
-                    "ID": "78",
+                    "ID": "77",
                     "typeID": "Arrow",
-                    "zOrder": "78",
+                    "zOrder": "69",
                     "w": "161",
                     "h": "130",
                     "measuredW": "150",
@@ -1961,9 +1859,9 @@
                     }
                 },
                 {
-                    "ID": "79",
+                    "ID": "78",
                     "typeID": "Arrow",
-                    "zOrder": "79",
+                    "zOrder": "70",
                     "w": "130",
                     "h": "239",
                     "measuredW": "150",
@@ -1993,9 +1891,9 @@
                     }
                 },
                 {
-                    "ID": "80",
+                    "ID": "79",
                     "typeID": "Arrow",
-                    "zOrder": "80",
+                    "zOrder": "71",
                     "w": "147",
                     "h": "4",
                     "measuredW": "150",
@@ -2025,9 +1923,9 @@
                     }
                 },
                 {
-                    "ID": "81",
+                    "ID": "80",
                     "typeID": "Arrow",
-                    "zOrder": "81",
+                    "zOrder": "72",
                     "w": "15",
                     "h": "62",
                     "measuredW": "150",
@@ -2057,9 +1955,9 @@
                     }
                 },
                 {
-                    "ID": "82",
+                    "ID": "81",
                     "typeID": "Arrow",
-                    "zOrder": "82",
+                    "zOrder": "73",
                     "w": "104",
                     "h": "11",
                     "measuredW": "150",
@@ -2089,9 +1987,9 @@
                     }
                 },
                 {
-                    "ID": "83",
+                    "ID": "82",
                     "typeID": "Arrow",
-                    "zOrder": "83",
+                    "zOrder": "74",
                     "w": "92",
                     "h": "36",
                     "measuredW": "150",
@@ -2121,9 +2019,9 @@
                     }
                 },
                 {
-                    "ID": "84",
+                    "ID": "83",
                     "typeID": "Arrow",
-                    "zOrder": "84",
+                    "zOrder": "75",
                     "w": "86",
                     "h": "8",
                     "measuredW": "150",
@@ -2153,9 +2051,9 @@
                     }
                 },
                 {
-                    "ID": "85",
+                    "ID": "84",
                     "typeID": "Arrow",
-                    "zOrder": "85",
+                    "zOrder": "76",
                     "w": "96",
                     "h": "60",
                     "measuredW": "150",
@@ -2185,9 +2083,9 @@
                     }
                 },
                 {
-                    "ID": "86",
+                    "ID": "85",
                     "typeID": "Arrow",
-                    "zOrder": "86",
+                    "zOrder": "77",
                     "w": "24",
                     "h": "85",
                     "measuredW": "150",
@@ -2217,9 +2115,9 @@
                     }
                 },
                 {
-                    "ID": "87",
+                    "ID": "86",
                     "typeID": "TextArea",
-                    "zOrder": "87",
+                    "zOrder": "78",
                     "w": "341",
                     "h": "97",
                     "measuredW": "200",
@@ -2231,9 +2129,9 @@
                     }
                 },
                 {
-                    "ID": "88",
+                    "ID": "87",
                     "typeID": "Arrow",
-                    "zOrder": "88",
+                    "zOrder": "79",
                     "w": "125",
                     "h": "34",
                     "measuredW": "150",
@@ -2263,9 +2161,9 @@
                     }
                 },
                 {
-                    "ID": "89",
+                    "ID": "88",
                     "typeID": "Arrow",
-                    "zOrder": "89",
+                    "zOrder": "80",
                     "w": "131",
                     "h": "11",
                     "measuredW": "150",
@@ -2295,9 +2193,9 @@
                     }
                 },
                 {
-                    "ID": "90",
+                    "ID": "89",
                     "typeID": "Arrow",
-                    "zOrder": "90",
+                    "zOrder": "81",
                     "w": "126",
                     "h": "47",
                     "measuredW": "150",
@@ -2327,9 +2225,9 @@
                     }
                 },
                 {
-                    "ID": "91",
+                    "ID": "90",
                     "typeID": "Arrow",
-                    "zOrder": "91",
+                    "zOrder": "82",
                     "w": "121",
                     "h": "41",
                     "measuredW": "150",
@@ -2359,9 +2257,9 @@
                     }
                 },
                 {
-                    "ID": "92",
+                    "ID": "91",
                     "typeID": "Arrow",
-                    "zOrder": "92",
+                    "zOrder": "83",
                     "w": "119",
                     "h": "5",
                     "measuredW": "150",
@@ -2391,9 +2289,9 @@
                     }
                 },
                 {
-                    "ID": "93",
+                    "ID": "92",
                     "typeID": "Arrow",
-                    "zOrder": "93",
+                    "zOrder": "84",
                     "w": "110",
                     "h": "34",
                     "measuredW": "150",
@@ -2423,10 +2321,10 @@
                     }
                 },
                 {
-                    "ID": "94",
+                    "ID": "93",
                     "typeID": "Label",
-                    "zOrder": "94",
-                    "measuredW": "118",
+                    "zOrder": "85",
+                    "measuredW": "119",
                     "measuredH": "40",
                     "x": "591",
                     "y": "152",
@@ -2437,9 +2335,9 @@
                     }
                 },
                 {
-                    "ID": "95",
+                    "ID": "94",
                     "typeID": "Arrow",
-                    "zOrder": "95",
+                    "zOrder": "86",
                     "w": "16",
                     "h": "79",
                     "measuredW": "150",
@@ -2469,9 +2367,9 @@
                     }
                 },
                 {
-                    "ID": "96",
+                    "ID": "95",
                     "typeID": "Arrow",
-                    "zOrder": "96",
+                    "zOrder": "87",
                     "w": "20",
                     "h": "109",
                     "measuredW": "150",
@@ -2501,9 +2399,9 @@
                     }
                 },
                 {
-                    "ID": "97",
+                    "ID": "100",
                     "typeID": "TextArea",
-                    "zOrder": "97",
+                    "zOrder": "88",
                     "w": "341",
                     "h": "53",
                     "measuredW": "200",
@@ -2515,9 +2413,9 @@
                     }
                 },
                 {
-                    "ID": "98",
+                    "ID": "101",
                     "typeID": "Label",
-                    "zOrder": "98",
+                    "zOrder": "89",
                     "measuredW": "102",
                     "measuredH": "25",
                     "x": "534",
@@ -2529,9 +2427,9 @@
                     }
                 },
                 {
-                    "ID": "99",
+                    "ID": "102",
                     "typeID": "Icon",
-                    "zOrder": "99",
+                    "zOrder": "90",
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "500",
@@ -2545,10 +2443,10 @@
                     }
                 },
                 {
-                    "ID": "100",
+                    "ID": "103",
                     "typeID": "Label",
-                    "zOrder": "100",
-                    "measuredW": "5",
+                    "zOrder": "91",
+                    "measuredW": "6",
                     "measuredH": "21",
                     "x": "509",
                     "y": "305",
@@ -2559,9 +2457,9 @@
                     }
                 },
                 {
-                    "ID": "101",
+                    "ID": "104",
                     "typeID": "TextArea",
-                    "zOrder": "101",
+                    "zOrder": "92",
                     "w": "141",
                     "h": "41",
                     "measuredW": "200",
@@ -2573,9 +2471,9 @@
                     }
                 },
                 {
-                    "ID": "102",
+                    "ID": "105",
                     "typeID": "Label",
-                    "zOrder": "102",
+                    "zOrder": "93",
                     "w": "45",
                     "measuredW": "40",
                     "measuredH": "25",
@@ -2588,9 +2486,9 @@
                     }
                 },
                 {
-                    "ID": "103",
+                    "ID": "106",
                     "typeID": "TextArea",
-                    "zOrder": "103",
+                    "zOrder": "94",
                     "w": "141",
                     "h": "41",
                     "measuredW": "200",
@@ -2602,9 +2500,9 @@
                     }
                 },
                 {
-                    "ID": "104",
+                    "ID": "107",
                     "typeID": "Label",
-                    "zOrder": "104",
+                    "zOrder": "95",
                     "w": "68",
                     "measuredW": "56",
                     "measuredH": "25",
@@ -2617,9 +2515,9 @@
                     }
                 },
                 {
-                    "ID": "105",
+                    "ID": "108",
                     "typeID": "TextArea",
-                    "zOrder": "105",
+                    "zOrder": "96",
                     "w": "141",
                     "h": "43",
                     "measuredW": "200",
@@ -2632,11 +2530,11 @@
                     }
                 },
                 {
-                    "ID": "106",
+                    "ID": "109",
                     "typeID": "Label",
-                    "zOrder": "106",
+                    "zOrder": "97",
                     "w": "68",
-                    "measuredW": "60",
+                    "measuredW": "61",
                     "measuredH": "25",
                     "x": "299",
                     "y": "354",
@@ -2647,9 +2545,9 @@
                     }
                 },
                 {
-                    "ID": "107",
+                    "ID": "110",
                     "typeID": "TextArea",
-                    "zOrder": "107",
+                    "zOrder": "98",
                     "w": "141",
                     "h": "41",
                     "measuredW": "200",
@@ -2662,9 +2560,9 @@
                     }
                 },
                 {
-                    "ID": "108",
+                    "ID": "111",
                     "typeID": "Label",
-                    "zOrder": "108",
+                    "zOrder": "99",
                     "w": "38",
                     "measuredW": "23",
                     "measuredH": "25",
@@ -2677,9 +2575,9 @@
                     }
                 },
                 {
-                    "ID": "109",
+                    "ID": "112",
                     "typeID": "TextArea",
-                    "zOrder": "109",
+                    "zOrder": "100",
                     "w": "141",
                     "h": "41",
                     "measuredW": "200",
@@ -2692,11 +2590,11 @@
                     }
                 },
                 {
-                    "ID": "110",
+                    "ID": "113",
                     "typeID": "Label",
-                    "zOrder": "110",
+                    "zOrder": "101",
                     "w": "50",
-                    "measuredW": "37",
+                    "measuredW": "38",
                     "measuredH": "25",
                     "x": "981",
                     "y": "302",
@@ -2707,9 +2605,9 @@
                     }
                 },
                 {
-                    "ID": "111",
+                    "ID": "114",
                     "typeID": "TextArea",
-                    "zOrder": "111",
+                    "zOrder": "102",
                     "w": "141",
                     "h": "41",
                     "measuredW": "200",
@@ -2722,11 +2620,11 @@
                     }
                 },
                 {
-                    "ID": "112",
+                    "ID": "115",
                     "typeID": "Label",
-                    "zOrder": "112",
+                    "zOrder": "103",
                     "w": "73",
-                    "measuredW": "64",
+                    "measuredW": "65",
                     "measuredH": "25",
                     "x": "970",
                     "y": "348",
@@ -2737,37 +2635,9 @@
                     }
                 },
                 {
-                    "ID": "113",
-                    "typeID": "Label",
-                    "zOrder": "113",
-                    "measuredW": "187",
-                    "measuredH": "25",
-                    "x": "499",
-                    "y": "369",
-                    "properties": {
-                        "color": "0",
-                        "size": "17",
-                        "text": "選擇哪種語言並不重要，"
-                    }
-                },
-                {
-                    "ID": "114",
-                    "typeID": "Label",
-                    "zOrder": "114",
-                    "measuredW": "255",
-                    "measuredH": "25",
-                    "x": "499",
-                    "y": "400",
-                    "properties": {
-                        "color": "0",
-                        "size": "17",
-                        "text": "關鍵是學到一些程式設計的知識。"
-                    }
-                },
-                {
-                    "ID": "115",
+                    "ID": "119",
                     "typeID": "TextArea",
-                    "zOrder": "115",
+                    "zOrder": "104",
                     "w": "386",
                     "h": "129",
                     "measuredW": "200",
@@ -2780,23 +2650,9 @@
                     }
                 },
                 {
-                    "ID": "116",
-                    "typeID": "Label",
-                    "zOrder": "116",
-                    "measuredW": "119",
-                    "measuredH": "25",
-                    "x": "528",
-                    "y": "629",
-                    "properties": {
-                        "bold": "true",
-                        "size": "17",
-                        "text": "學習管理伺服器"
-                    }
-                },
-                {
-                    "ID": "117",
+                    "ID": "121",
                     "typeID": "Icon",
-                    "zOrder": "117",
+                    "zOrder": "105",
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "494",
@@ -2810,9 +2666,9 @@
                     }
                 },
                 {
-                    "ID": "118",
+                    "ID": "122",
                     "typeID": "Label",
-                    "zOrder": "118",
+                    "zOrder": "106",
                     "measuredW": "8",
                     "measuredH": "21",
                     "x": "502",
@@ -2824,37 +2680,9 @@
                     }
                 },
                 {
-                    "ID": "119",
-                    "typeID": "Label",
-                    "zOrder": "119",
-                    "w": "352",
-                    "measuredW": "225",
-                    "measuredH": "23",
-                    "x": "498",
-                    "y": "660",
-                    "properties": {
-                        "size": "15",
-                        "text": "在一些作業系統中管理一些東西。"
-                    }
-                },
-                {
-                    "ID": "120",
-                    "typeID": "Label",
-                    "zOrder": "120",
-                    "w": "352",
-                    "measuredW": "195",
-                    "measuredH": "23",
-                    "x": "498",
-                    "y": "684",
-                    "properties": {
-                        "size": "15",
-                        "text": "尤其是任何 Linux 的發行版。"
-                    }
-                },
-                {
-                    "ID": "121",
+                    "ID": "125",
                     "typeID": "TextArea",
-                    "zOrder": "121",
+                    "zOrder": "107",
                     "w": "386",
                     "h": "54",
                     "measuredW": "200",
@@ -2867,23 +2695,9 @@
                     }
                 },
                 {
-                    "ID": "122",
-                    "typeID": "Label",
-                    "zOrder": "122",
-                    "measuredW": "187",
-                    "measuredH": "25",
-                    "x": "533",
-                    "y": "526",
-                    "properties": {
-                        "bold": "true",
-                        "size": "17",
-                        "text": "瞭解不同的作業系統概念"
-                    }
-                },
-                {
-                    "ID": "123",
+                    "ID": "127",
                     "typeID": "Icon",
-                    "zOrder": "123",
+                    "zOrder": "108",
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "500",
@@ -2897,10 +2711,10 @@
                     }
                 },
                 {
-                    "ID": "124",
+                    "ID": "128",
                     "typeID": "Label",
-                    "zOrder": "124",
-                    "measuredW": "8",
+                    "zOrder": "109",
+                    "measuredW": "9",
                     "measuredH": "21",
                     "x": "508",
                     "y": "527",
@@ -2911,9 +2725,9 @@
                     }
                 },
                 {
-                    "ID": "125",
+                    "ID": "129",
                     "typeID": "TextArea",
-                    "zOrder": "125",
+                    "zOrder": "110",
                     "w": "207",
                     "h": "40",
                     "measuredW": "200",
@@ -2925,25 +2739,9 @@
                     }
                 },
                 {
-                    "ID": "126",
-                    "typeID": "Label",
-                    "zOrder": "126",
-                    "w": "156",
-                    "measuredW": "148",
-                    "measuredH": "23",
-                    "x": "243",
-                    "y": "474",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "行程（Process）管理",
-                        "align": "center"
-                    }
-                },
-                {
-                    "ID": "127",
+                    "ID": "131",
                     "typeID": "TextArea",
-                    "zOrder": "127",
+                    "zOrder": "111",
                     "w": "207",
                     "h": "40",
                     "measuredW": "200",
@@ -2955,25 +2753,9 @@
                     }
                 },
                 {
-                    "ID": "128",
-                    "typeID": "Label",
-                    "zOrder": "128",
-                    "w": "198",
-                    "measuredW": "170",
-                    "measuredH": "23",
-                    "x": "220",
-                    "y": "518",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "執行緒（Thread）和並行",
-                        "align": "center"
-                    }
-                },
-                {
-                    "ID": "129",
+                    "ID": "133",
                     "typeID": "TextArea",
-                    "zOrder": "129",
+                    "zOrder": "112",
                     "w": "207",
                     "h": "40",
                     "measuredW": "200",
@@ -2985,25 +2767,9 @@
                     }
                 },
                 {
-                    "ID": "130",
-                    "typeID": "Label",
-                    "zOrder": "130",
-                    "w": "186",
-                    "measuredW": "139",
-                    "measuredH": "23",
-                    "x": "227",
-                    "y": "566",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "網路插座（Socket）",
-                        "align": "center"
-                    }
-                },
-                {
-                    "ID": "131",
+                    "ID": "135",
                     "typeID": "TextArea",
-                    "zOrder": "131",
+                    "zOrder": "113",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
@@ -3014,24 +2780,9 @@
                     }
                 },
                 {
-                    "ID": "132",
-                    "typeID": "Label",
-                    "zOrder": "132",
-                    "w": "123",
-                    "measuredW": "120",
-                    "measuredH": "23",
-                    "x": "965",
-                    "y": "561",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "記憶體 / 儲存空間"
-                    }
-                },
-                {
-                    "ID": "133",
+                    "ID": "137",
                     "typeID": "TextArea",
-                    "zOrder": "133",
+                    "zOrder": "114",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
@@ -3042,25 +2793,9 @@
                     }
                 },
                 {
-                    "ID": "134",
-                    "typeID": "Label",
-                    "zOrder": "134",
-                    "w": "123",
-                    "measuredW": "58",
-                    "measuredH": "23",
-                    "x": "967",
-                    "y": "471",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "I/O 管理",
-                        "align": "center"
-                    }
-                },
-                {
-                    "ID": "135",
+                    "ID": "139",
                     "typeID": "TextArea",
-                    "zOrder": "135",
+                    "zOrder": "115",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
@@ -3071,39 +2806,9 @@
                     }
                 },
                 {
-                    "ID": "136",
-                    "typeID": "Label",
-                    "zOrder": "136",
-                    "w": "102",
-                    "measuredW": "45",
-                    "measuredH": "23",
-                    "x": "977",
-                    "y": "516",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "虛擬化",
-                        "align": "center"
-                    }
-                },
-                {
-                    "ID": "137",
-                    "typeID": "Label",
-                    "zOrder": "137",
-                    "w": "334",
-                    "measuredW": "323",
-                    "measuredH": "23",
-                    "x": "497",
-                    "y": "709",
-                    "properties": {
-                        "size": "15",
-                        "text": "如果你沒有什麼 Linux 的經驗，就選擇 Ubuntu。"
-                    }
-                },
-                {
-                    "ID": "138",
+                    "ID": "142",
                     "typeID": "TextArea",
-                    "zOrder": "138",
+                    "zOrder": "116",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
@@ -3114,9 +2819,9 @@
                     }
                 },
                 {
-                    "ID": "139",
+                    "ID": "143",
                     "typeID": "Label",
-                    "zOrder": "139",
+                    "zOrder": "117",
                     "w": "45",
                     "measuredW": "37",
                     "measuredH": "23",
@@ -3129,9 +2834,9 @@
                     }
                 },
                 {
-                    "ID": "140",
+                    "ID": "144",
                     "typeID": "TextArea",
-                    "zOrder": "140",
+                    "zOrder": "118",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
@@ -3142,9 +2847,9 @@
                     }
                 },
                 {
-                    "ID": "141",
+                    "ID": "145",
                     "typeID": "Label",
-                    "zOrder": "141",
+                    "zOrder": "119",
                     "w": "45",
                     "measuredW": "31",
                     "measuredH": "23",
@@ -3157,9 +2862,9 @@
                     }
                 },
                 {
-                    "ID": "142",
+                    "ID": "146",
                     "typeID": "TextArea",
-                    "zOrder": "142",
+                    "zOrder": "120",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
@@ -3170,9 +2875,9 @@
                     }
                 },
                 {
-                    "ID": "143",
+                    "ID": "147",
                     "typeID": "Label",
-                    "zOrder": "143",
+                    "zOrder": "121",
                     "w": "67",
                     "measuredW": "63",
                     "measuredH": "23",
@@ -3185,9 +2890,9 @@
                     }
                 },
                 {
-                    "ID": "144",
+                    "ID": "148",
                     "typeID": "TextArea",
-                    "zOrder": "144",
+                    "zOrder": "122",
                     "w": "270",
                     "h": "49",
                     "measuredW": "200",
@@ -3200,9 +2905,9 @@
                     }
                 },
                 {
-                    "ID": "145",
+                    "ID": "149",
                     "typeID": "Icon",
-                    "zOrder": "145",
+                    "zOrder": "123",
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "255",
@@ -3216,9 +2921,9 @@
                     }
                 },
                 {
-                    "ID": "146",
+                    "ID": "150",
                     "typeID": "Label",
-                    "zOrder": "146",
+                    "zOrder": "124",
                     "measuredW": "9",
                     "measuredH": "21",
                     "x": "263",
@@ -3230,23 +2935,9 @@
                     }
                 },
                 {
-                    "ID": "147",
-                    "typeID": "Label",
-                    "zOrder": "147",
-                    "measuredW": "85",
-                    "measuredH": "25",
-                    "x": "288",
-                    "y": "972",
-                    "properties": {
-                        "bold": "true",
-                        "size": "17",
-                        "text": "網路與安全"
-                    }
-                },
-                {
-                    "ID": "148",
+                    "ID": "152",
                     "typeID": "TextArea",
-                    "zOrder": "148",
+                    "zOrder": "125",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
@@ -3257,9 +2948,9 @@
                     }
                 },
                 {
-                    "ID": "149",
+                    "ID": "153",
                     "typeID": "Label",
-                    "zOrder": "149",
+                    "zOrder": "126",
                     "w": "67",
                     "measuredW": "40",
                     "measuredH": "23",
@@ -3272,9 +2963,9 @@
                     }
                 },
                 {
-                    "ID": "150",
+                    "ID": "154",
                     "typeID": "TextArea",
-                    "zOrder": "150",
+                    "zOrder": "127",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
@@ -3285,9 +2976,9 @@
                     }
                 },
                 {
-                    "ID": "151",
+                    "ID": "155",
                     "typeID": "Label",
-                    "zOrder": "151",
+                    "zOrder": "128",
                     "w": "67",
                     "measuredW": "50",
                     "measuredH": "23",
@@ -3300,9 +2991,9 @@
                     }
                 },
                 {
-                    "ID": "152",
+                    "ID": "156",
                     "typeID": "TextArea",
-                    "zOrder": "152",
+                    "zOrder": "129",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
@@ -3313,9 +3004,9 @@
                     }
                 },
                 {
-                    "ID": "153",
+                    "ID": "157",
                     "typeID": "Label",
-                    "zOrder": "153",
+                    "zOrder": "130",
                     "w": "45",
                     "measuredW": "29",
                     "measuredH": "23",
@@ -3328,9 +3019,9 @@
                     }
                 },
                 {
-                    "ID": "154",
+                    "ID": "158",
                     "typeID": "TextArea",
-                    "zOrder": "154",
+                    "zOrder": "131",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
@@ -3341,9 +3032,9 @@
                     }
                 },
                 {
-                    "ID": "155",
+                    "ID": "159",
                     "typeID": "Label",
-                    "zOrder": "155",
+                    "zOrder": "132",
                     "w": "35",
                     "measuredW": "31",
                     "measuredH": "23",
@@ -3356,9 +3047,9 @@
                     }
                 },
                 {
-                    "ID": "156",
+                    "ID": "160",
                     "typeID": "TextArea",
-                    "zOrder": "156",
+                    "zOrder": "133",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
@@ -3369,24 +3060,9 @@
                     }
                 },
                 {
-                    "ID": "157",
-                    "typeID": "Label",
-                    "zOrder": "157",
-                    "w": "79",
-                    "measuredW": "61",
-                    "measuredH": "23",
-                    "x": "209",
-                    "y": "915",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "OSI 模型"
-                    }
-                },
-                {
-                    "ID": "158",
+                    "ID": "162",
                     "typeID": "TextArea",
-                    "zOrder": "158",
+                    "zOrder": "134",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
@@ -3397,25 +3073,9 @@
                     }
                 },
                 {
-                    "ID": "159",
-                    "typeID": "Label",
-                    "zOrder": "159",
-                    "w": "104",
-                    "measuredW": "60",
-                    "measuredH": "23",
-                    "x": "975",
-                    "y": "607",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "檔案系統",
-                        "align": "center"
-                    }
-                },
-                {
-                    "ID": "160",
+                    "ID": "164",
                     "typeID": "TextArea",
-                    "zOrder": "160",
+                    "zOrder": "135",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
@@ -3426,9 +3086,9 @@
                     }
                 },
                 {
-                    "ID": "161",
+                    "ID": "165",
                     "typeID": "Label",
-                    "zOrder": "161",
+                    "zOrder": "136",
                     "w": "84",
                     "measuredW": "73",
                     "measuredH": "23",
@@ -3441,9 +3101,9 @@
                     }
                 },
                 {
-                    "ID": "162",
+                    "ID": "166",
                     "typeID": "TextArea",
-                    "zOrder": "162",
+                    "zOrder": "137",
                     "w": "386",
                     "h": "49",
                     "measuredW": "200",
@@ -3456,9 +3116,9 @@
                     }
                 },
                 {
-                    "ID": "163",
+                    "ID": "167",
                     "typeID": "Icon",
-                    "zOrder": "163",
+                    "zOrder": "138",
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "414",
@@ -3472,9 +3132,9 @@
                     }
                 },
                 {
-                    "ID": "164",
+                    "ID": "168",
                     "typeID": "Label",
-                    "zOrder": "164",
+                    "zOrder": "139",
                     "measuredW": "8",
                     "measuredH": "21",
                     "x": "422",
@@ -3486,23 +3146,9 @@
                     }
                 },
                 {
-                    "ID": "165",
-                    "typeID": "Label",
-                    "zOrder": "165",
-                    "measuredW": "261",
-                    "measuredH": "25",
-                    "x": "447",
-                    "y": "1135",
-                    "properties": {
-                        "bold": "true",
-                        "size": "17",
-                        "text": "什麼是 ____________，如何安裝"
-                    }
-                },
-                {
-                    "ID": "166",
+                    "ID": "170",
                     "typeID": "TextArea",
-                    "zOrder": "166",
+                    "zOrder": "140",
                     "w": "161",
                     "h": "40",
                     "measuredW": "200",
@@ -3514,24 +3160,9 @@
                     }
                 },
                 {
-                    "ID": "167",
-                    "typeID": "Label",
-                    "zOrder": "167",
-                    "w": "80",
-                    "measuredW": "75",
-                    "measuredH": "23",
-                    "x": "894",
-                    "y": "1206",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "網頁伺服器"
-                    }
-                },
-                {
-                    "ID": "168",
+                    "ID": "172",
                     "typeID": "TextArea",
-                    "zOrder": "168",
+                    "zOrder": "141",
                     "w": "144",
                     "h": "40",
                     "measuredW": "200",
@@ -3543,24 +3174,9 @@
                     }
                 },
                 {
-                    "ID": "169",
-                    "typeID": "Label",
-                    "zOrder": "169",
-                    "w": "67",
-                    "measuredW": "60",
-                    "measuredH": "23",
-                    "x": "426",
-                    "y": "1263",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "正向代理"
-                    }
-                },
-                {
-                    "ID": "170",
+                    "ID": "174",
                     "typeID": "TextArea",
-                    "zOrder": "170",
+                    "zOrder": "142",
                     "w": "161",
                     "h": "40",
                     "measuredW": "200",
@@ -3572,24 +3188,9 @@
                     }
                 },
                 {
-                    "ID": "171",
-                    "typeID": "Label",
-                    "zOrder": "171",
-                    "w": "80",
-                    "measuredW": "75",
-                    "measuredH": "23",
-                    "x": "573",
-                    "y": "1219",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "快取伺服器"
-                    }
-                },
-                {
-                    "ID": "172",
+                    "ID": "176",
                     "typeID": "TextArea",
-                    "zOrder": "172",
+                    "zOrder": "143",
                     "w": "102",
                     "h": "40",
                     "measuredW": "200",
@@ -3601,11 +3202,11 @@
                     }
                 },
                 {
-                    "ID": "173",
+                    "ID": "177",
                     "typeID": "Label",
-                    "zOrder": "173",
+                    "zOrder": "144",
                     "w": "64",
-                    "measuredW": "53",
+                    "measuredW": "54",
                     "measuredH": "23",
                     "x": "1098",
                     "y": "1185",
@@ -3616,9 +3217,9 @@
                     }
                 },
                 {
-                    "ID": "174",
+                    "ID": "178",
                     "typeID": "TextArea",
-                    "zOrder": "174",
+                    "zOrder": "145",
                     "w": "104",
                     "h": "40",
                     "measuredW": "200",
@@ -3630,9 +3231,9 @@
                     }
                 },
                 {
-                    "ID": "175",
+                    "ID": "179",
                     "typeID": "Label",
-                    "zOrder": "175",
+                    "zOrder": "146",
                     "w": "43",
                     "measuredW": "39",
                     "measuredH": "23",
@@ -3645,9 +3246,9 @@
                     }
                 },
                 {
-                    "ID": "176",
+                    "ID": "180",
                     "typeID": "TextArea",
-                    "zOrder": "176",
+                    "zOrder": "147",
                     "w": "104",
                     "h": "40",
                     "measuredW": "200",
@@ -3659,9 +3260,9 @@
                     }
                 },
                 {
-                    "ID": "177",
+                    "ID": "181",
                     "typeID": "Label",
-                    "zOrder": "177",
+                    "zOrder": "148",
                     "w": "57",
                     "measuredW": "53",
                     "measuredH": "23",
@@ -3674,9 +3275,9 @@
                     }
                 },
                 {
-                    "ID": "178",
+                    "ID": "182",
                     "typeID": "TextArea",
-                    "zOrder": "178",
+                    "zOrder": "149",
                     "w": "104",
                     "h": "40",
                     "measuredW": "200",
@@ -3688,9 +3289,9 @@
                     }
                 },
                 {
-                    "ID": "179",
+                    "ID": "183",
                     "typeID": "Label",
-                    "zOrder": "179",
+                    "zOrder": "150",
                     "w": "49",
                     "measuredW": "45",
                     "measuredH": "23",
@@ -3703,9 +3304,9 @@
                     }
                 },
                 {
-                    "ID": "180",
+                    "ID": "184",
                     "typeID": "TextArea",
-                    "zOrder": "180",
+                    "zOrder": "151",
                     "w": "104",
                     "h": "40",
                     "measuredW": "200",
@@ -3717,9 +3318,9 @@
                     }
                 },
                 {
-                    "ID": "181",
+                    "ID": "185",
                     "typeID": "Label",
-                    "zOrder": "181",
+                    "zOrder": "152",
                     "w": "29",
                     "measuredW": "21",
                     "measuredH": "23",
@@ -3732,9 +3333,9 @@
                     }
                 },
                 {
-                    "ID": "182",
+                    "ID": "186",
                     "typeID": "TextArea",
-                    "zOrder": "182",
+                    "zOrder": "153",
                     "w": "143",
                     "h": "40",
                     "measuredW": "200",
@@ -3746,24 +3347,9 @@
                     }
                 },
                 {
-                    "ID": "183",
-                    "typeID": "Label",
-                    "zOrder": "183",
-                    "w": "62",
-                    "measuredW": "60",
-                    "measuredH": "23",
-                    "x": "427",
-                    "y": "1219",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "反向代理"
-                    }
-                },
-                {
-                    "ID": "184",
+                    "ID": "188",
                     "typeID": "TextArea",
-                    "zOrder": "184",
+                    "zOrder": "154",
                     "w": "161",
                     "h": "40",
                     "measuredW": "200",
@@ -3775,24 +3361,9 @@
                     }
                 },
                 {
-                    "ID": "185",
-                    "typeID": "Label",
-                    "zOrder": "185",
-                    "w": "76",
-                    "measuredW": "75",
-                    "measuredH": "23",
-                    "x": "572",
-                    "y": "1263",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "負載平衡器"
-                    }
-                },
-                {
-                    "ID": "186",
+                    "ID": "190",
                     "typeID": "TextArea",
-                    "zOrder": "186",
+                    "zOrder": "155",
                     "w": "311",
                     "h": "40",
                     "measuredW": "200",
@@ -3804,24 +3375,9 @@
                     }
                 },
                 {
-                    "ID": "187",
-                    "typeID": "Label",
-                    "zOrder": "187",
-                    "w": "60",
-                    "measuredW": "45",
-                    "measuredH": "23",
-                    "x": "512",
-                    "y": "1313",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "防火牆"
-                    }
-                },
-                {
-                    "ID": "188",
+                    "ID": "192",
                     "typeID": "TextArea",
-                    "zOrder": "188",
+                    "zOrder": "156",
                     "w": "311",
                     "h": "49",
                     "measuredW": "200",
@@ -3834,9 +3390,9 @@
                     }
                 },
                 {
-                    "ID": "189",
+                    "ID": "193",
                     "typeID": "Icon",
-                    "zOrder": "189",
+                    "zOrder": "157",
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "733",
@@ -3850,10 +3406,10 @@
                     }
                 },
                 {
-                    "ID": "190",
+                    "ID": "194",
                     "typeID": "Label",
-                    "zOrder": "190",
-                    "measuredW": "8",
+                    "zOrder": "158",
+                    "measuredW": "9",
                     "measuredH": "21",
                     "x": "741",
                     "y": "1374",
@@ -3864,23 +3420,9 @@
                     }
                 },
                 {
-                    "ID": "191",
-                    "typeID": "Label",
-                    "zOrder": "191",
-                    "measuredW": "233",
-                    "measuredH": "25",
-                    "x": "766",
-                    "y": "1372",
-                    "properties": {
-                        "bold": "true",
-                        "size": "17",
-                        "text": "學習基礎建設即程式碼（IaC）"
-                    }
-                },
-                {
-                    "ID": "192",
+                    "ID": "196",
                     "typeID": "TextArea",
-                    "zOrder": "192",
+                    "zOrder": "159",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
@@ -3891,25 +3433,9 @@
                     }
                 },
                 {
-                    "ID": "193",
-                    "typeID": "Label",
-                    "zOrder": "193",
-                    "w": "130",
-                    "measuredW": "60",
-                    "measuredH": "23",
-                    "x": "252",
-                    "y": "642",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "作業系統",
-                        "align": "center"
-                    }
-                },
-                {
-                    "ID": "194",
+                    "ID": "198",
                     "typeID": "TextArea",
-                    "zOrder": "194",
+                    "zOrder": "160",
                     "w": "216",
                     "h": "40",
                     "measuredW": "200",
@@ -3921,72 +3447,42 @@
                     }
                 },
                 {
-                    "ID": "195",
-                    "typeID": "Label",
-                    "zOrder": "195",
-                    "w": "184",
-                    "measuredW": "135",
-                    "measuredH": "23",
-                    "x": "938",
-                    "y": "709",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "學會生活在終端機中",
-                        "align": "center"
-                    }
-                },
-                {
-                    "ID": "196",
+                    "ID": "200",
                     "typeID": "TextArea",
-                    "zOrder": "196",
-                    "w": "267",
+                    "zOrder": "161",
+                    "w": "253",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
-                    "x": "885",
-                    "y": "1444",
+                    "x": "1113",
+                    "y": "1445",
                     "properties": {
                         "color": "16776960"
                     }
                 },
                 {
-                    "ID": "197",
-                    "typeID": "Label",
-                    "zOrder": "197",
-                    "measuredW": "102",
-                    "measuredH": "25",
-                    "x": "890",
-                    "y": "1452",
-                    "properties": {
-                        "bold": "true",
-                        "size": "17",
-                        "text": "基礎建設佈建"
-                    }
-                },
-                {
-                    "ID": "198",
+                    "ID": "202",
                     "typeID": "TextArea",
-                    "zOrder": "198",
-                    "w": "116",
+                    "zOrder": "162",
+                    "w": "152",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
-                    "x": "878",
-                    "y": "1524",
+                    "x": "1156",
+                    "y": "1525",
                     "properties": {
                         "color": "16776960"
                     }
                 },
                 {
-                    "ID": "199",
+                    "ID": "203",
                     "typeID": "Label",
-                    "zOrder": "199",
+                    "zOrder": "163",
                     "w": "75",
-                    "measuredW": "70",
+                    "measuredW": "71",
                     "measuredH": "23",
-                    "x": "901",
-                    "y": "1533",
+                    "x": "1197",
+                    "y": "1534",
                     "properties": {
                         "bold": "true",
                         "size": "15",
@@ -3994,29 +3490,29 @@
                     }
                 },
                 {
-                    "ID": "200",
+                    "ID": "204",
                     "typeID": "TextArea",
-                    "zOrder": "200",
-                    "w": "155",
+                    "zOrder": "164",
+                    "w": "152",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
-                    "x": "1001",
-                    "y": "1524",
+                    "x": "1156",
+                    "y": "1569",
                     "properties": {
                         "color": "16770457",
                         "text": ""
                     }
                 },
                 {
-                    "ID": "201",
+                    "ID": "205",
                     "typeID": "Label",
-                    "zOrder": "201",
+                    "zOrder": "165",
                     "w": "122",
                     "measuredW": "116",
                     "measuredH": "23",
-                    "x": "1019",
-                    "y": "1533",
+                    "x": "1174",
+                    "y": "1578",
                     "properties": {
                         "bold": "true",
                         "size": "15",
@@ -4024,9 +3520,9 @@
                     }
                 },
                 {
-                    "ID": "202",
+                    "ID": "206",
                     "typeID": "TextArea",
-                    "zOrder": "202",
+                    "zOrder": "166",
                     "w": "253",
                     "h": "40",
                     "measuredW": "200",
@@ -4038,23 +3534,9 @@
                     }
                 },
                 {
-                    "ID": "203",
-                    "typeID": "Label",
-                    "zOrder": "203",
-                    "measuredW": "68",
-                    "measuredH": "25",
-                    "x": "640",
-                    "y": "1452",
-                    "properties": {
-                        "bold": "true",
-                        "size": "17",
-                        "text": "組態管理"
-                    }
-                },
-                {
-                    "ID": "204",
+                    "ID": "208",
                     "typeID": "TextArea",
-                    "zOrder": "204",
+                    "zOrder": "167",
                     "w": "116",
                     "h": "40",
                     "measuredW": "200",
@@ -4062,13 +3544,14 @@
                     "x": "630",
                     "y": "1524",
                     "properties": {
-                        "color": "16776960"
+                        "color": "16776960",
+                        "text": ""
                     }
                 },
                 {
-                    "ID": "205",
+                    "ID": "209",
                     "typeID": "Label",
-                    "zOrder": "205",
+                    "zOrder": "168",
                     "w": "59",
                     "measuredW": "52",
                     "measuredH": "23",
@@ -4081,9 +3564,9 @@
                     }
                 },
                 {
-                    "ID": "206",
+                    "ID": "210",
                     "typeID": "TextArea",
-                    "zOrder": "206",
+                    "zOrder": "169",
                     "w": "116",
                     "h": "40",
                     "measuredW": "200",
@@ -4095,11 +3578,11 @@
                     }
                 },
                 {
-                    "ID": "207",
+                    "ID": "211",
                     "typeID": "Label",
-                    "zOrder": "207",
+                    "zOrder": "170",
                     "w": "48",
-                    "measuredW": "35",
+                    "measuredW": "36",
                     "measuredH": "23",
                     "x": "664",
                     "y": "1577",
@@ -4110,9 +3593,9 @@
                     }
                 },
                 {
-                    "ID": "208",
+                    "ID": "212",
                     "typeID": "TextArea",
-                    "zOrder": "208",
+                    "zOrder": "171",
                     "w": "107",
                     "h": "40",
                     "measuredW": "200",
@@ -4124,11 +3607,11 @@
                     }
                 },
                 {
-                    "ID": "209",
+                    "ID": "213",
                     "typeID": "Label",
-                    "zOrder": "209",
+                    "zOrder": "172",
                     "w": "51",
-                    "measuredW": "51",
+                    "measuredW": "52",
                     "measuredH": "23",
                     "x": "780",
                     "y": "1576",
@@ -4139,9 +3622,9 @@
                     }
                 },
                 {
-                    "ID": "210",
+                    "ID": "214",
                     "typeID": "TextArea",
-                    "zOrder": "210",
+                    "zOrder": "173",
                     "w": "107",
                     "h": "40",
                     "measuredW": "200",
@@ -4153,9 +3636,9 @@
                     }
                 },
                 {
-                    "ID": "211",
+                    "ID": "215",
                     "typeID": "Label",
-                    "zOrder": "211",
+                    "zOrder": "174",
                     "w": "51",
                     "measuredW": "29",
                     "measuredH": "23",
@@ -4168,10 +3651,10 @@
                     }
                 },
                 {
-                    "ID": "212",
+                    "ID": "216",
                     "typeID": "TextArea",
-                    "zOrder": "212",
-                    "w": "323",
+                    "zOrder": "175",
+                    "w": "311",
                     "h": "49",
                     "measuredW": "200",
                     "measuredH": "140",
@@ -4183,9 +3666,9 @@
                     }
                 },
                 {
-                    "ID": "213",
+                    "ID": "217",
                     "typeID": "Icon",
-                    "zOrder": "213",
+                    "zOrder": "176",
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "143",
@@ -4199,9 +3682,9 @@
                     }
                 },
                 {
-                    "ID": "214",
+                    "ID": "218",
                     "typeID": "Label",
-                    "zOrder": "214",
+                    "zOrder": "177",
                     "measuredW": "8",
                     "measuredH": "21",
                     "x": "151",
@@ -4213,23 +3696,9 @@
                     }
                 },
                 {
-                    "ID": "215",
-                    "typeID": "Label",
-                    "zOrder": "215",
-                    "measuredW": "162",
-                    "measuredH": "25",
-                    "x": "171",
-                    "y": "1470",
-                    "properties": {
-                        "bold": "true",
-                        "size": "17",
-                        "text": "學習一些 CI/CD 工具"
-                    }
-                },
-                {
-                    "ID": "216",
+                    "ID": "220",
                     "typeID": "TextArea",
-                    "zOrder": "216",
+                    "zOrder": "178",
                     "w": "144",
                     "h": "40",
                     "measuredW": "200",
@@ -4241,11 +3710,11 @@
                     }
                 },
                 {
-                    "ID": "217",
+                    "ID": "221",
                     "typeID": "Label",
-                    "zOrder": "217",
+                    "zOrder": "179",
                     "w": "59",
-                    "measuredW": "53",
+                    "measuredW": "54",
                     "measuredH": "23",
                     "x": "172",
                     "y": "1549",
@@ -4256,9 +3725,9 @@
                     }
                 },
                 {
-                    "ID": "218",
+                    "ID": "222",
                     "typeID": "TextArea",
-                    "zOrder": "218",
+                    "zOrder": "180",
                     "w": "144",
                     "h": "40",
                     "measuredW": "200",
@@ -4270,9 +3739,9 @@
                     }
                 },
                 {
-                    "ID": "219",
+                    "ID": "223",
                     "typeID": "Label",
-                    "zOrder": "219",
+                    "zOrder": "181",
                     "w": "65",
                     "measuredW": "63",
                     "measuredH": "23",
@@ -4285,9 +3754,9 @@
                     }
                 },
                 {
-                    "ID": "220",
+                    "ID": "224",
                     "typeID": "Arrow",
-                    "zOrder": "220",
+                    "zOrder": "182",
                     "w": "2",
                     "h": "58",
                     "measuredW": "150",
@@ -4317,9 +3786,9 @@
                     }
                 },
                 {
-                    "ID": "221",
+                    "ID": "225",
                     "typeID": "TextArea",
-                    "zOrder": "221",
+                    "zOrder": "183",
                     "w": "139",
                     "h": "40",
                     "measuredW": "200",
@@ -4327,28 +3796,13 @@
                     "x": "478",
                     "y": "1444",
                     "properties": {
-                        "color": "16776960",
-                        "text": ""
+                        "color": "16776960"
                     }
                 },
                 {
-                    "ID": "222",
-                    "typeID": "Label",
-                    "zOrder": "222",
-                    "measuredW": "34",
-                    "measuredH": "25",
-                    "x": "499",
-                    "y": "1452",
-                    "properties": {
-                        "bold": "true",
-                        "size": "17",
-                        "text": "容器"
-                    }
-                },
-                {
-                    "ID": "223",
+                    "ID": "227",
                     "typeID": "TextArea",
-                    "zOrder": "223",
+                    "zOrder": "184",
                     "w": "116",
                     "h": "40",
                     "measuredW": "200",
@@ -4360,11 +3814,11 @@
                     }
                 },
                 {
-                    "ID": "224",
+                    "ID": "228",
                     "typeID": "Label",
-                    "zOrder": "224",
+                    "zOrder": "185",
                     "w": "59",
-                    "measuredW": "50",
+                    "measuredW": "51",
                     "measuredH": "23",
                     "x": "507",
                     "y": "1533",
@@ -4375,9 +3829,9 @@
                     }
                 },
                 {
-                    "ID": "225",
+                    "ID": "229",
                     "typeID": "TextArea",
-                    "zOrder": "225",
+                    "zOrder": "186",
                     "w": "116",
                     "h": "40",
                     "measuredW": "200",
@@ -4389,11 +3843,11 @@
                     }
                 },
                 {
-                    "ID": "226",
+                    "ID": "230",
                     "typeID": "Label",
-                    "zOrder": "226",
+                    "zOrder": "187",
                     "w": "28",
-                    "measuredW": "20",
+                    "measuredW": "21",
                     "measuredH": "23",
                     "x": "522",
                     "y": "1577",
@@ -4404,9 +3858,9 @@
                     }
                 },
                 {
-                    "ID": "227",
+                    "ID": "231",
                     "typeID": "TextArea",
-                    "zOrder": "227",
+                    "zOrder": "188",
                     "w": "116",
                     "h": "40",
                     "measuredW": "200",
@@ -4418,9 +3872,9 @@
                     }
                 },
                 {
-                    "ID": "228",
+                    "ID": "232",
                     "typeID": "Label",
-                    "zOrder": "228",
+                    "zOrder": "189",
                     "w": "28",
                     "measuredW": "30",
                     "measuredH": "23",
@@ -4433,9 +3887,9 @@
                     }
                 },
                 {
-                    "ID": "229",
+                    "ID": "233",
                     "typeID": "TextArea",
-                    "zOrder": "229",
+                    "zOrder": "190",
                     "w": "144",
                     "h": "40",
                     "measuredW": "200",
@@ -4447,10 +3901,10 @@
                     }
                 },
                 {
-                    "ID": "230",
+                    "ID": "234",
                     "typeID": "Label",
-                    "zOrder": "230",
-                    "w": "70",
+                    "zOrder": "191",
+                    "w": "65",
                     "measuredW": "66",
                     "measuredH": "23",
                     "x": "166",
@@ -4462,9 +3916,9 @@
                     }
                 },
                 {
-                    "ID": "231",
+                    "ID": "235",
                     "typeID": "TextArea",
-                    "zOrder": "231",
+                    "zOrder": "192",
                     "w": "144",
                     "h": "40",
                     "measuredW": "200",
@@ -4476,11 +3930,11 @@
                     }
                 },
                 {
-                    "ID": "232",
+                    "ID": "236",
                     "typeID": "Label",
-                    "zOrder": "232",
+                    "zOrder": "193",
                     "w": "50",
-                    "measuredW": "42",
+                    "measuredW": "43",
                     "measuredH": "23",
                     "x": "178",
                     "y": "1680",
@@ -4491,9 +3945,9 @@
                     }
                 },
                 {
-                    "ID": "233",
+                    "ID": "237",
                     "typeID": "TextArea",
-                    "zOrder": "233",
+                    "zOrder": "194",
                     "w": "144",
                     "h": "40",
                     "measuredW": "200",
@@ -4505,11 +3959,11 @@
                     }
                 },
                 {
-                    "ID": "234",
+                    "ID": "238",
                     "typeID": "Label",
-                    "zOrder": "234",
+                    "zOrder": "195",
                     "w": "65",
-                    "measuredW": "62",
+                    "measuredW": "63",
                     "measuredH": "23",
                     "x": "171",
                     "y": "1723",
@@ -4520,9 +3974,9 @@
                     }
                 },
                 {
-                    "ID": "235",
+                    "ID": "239",
                     "typeID": "TextArea",
-                    "zOrder": "235",
+                    "zOrder": "196",
                     "w": "470",
                     "h": "49",
                     "measuredW": "200",
@@ -4535,9 +3989,9 @@
                     }
                 },
                 {
-                    "ID": "236",
+                    "ID": "240",
                     "typeID": "Icon",
-                    "zOrder": "236",
+                    "zOrder": "197",
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "316",
@@ -4551,9 +4005,9 @@
                     }
                 },
                 {
-                    "ID": "237",
+                    "ID": "241",
                     "typeID": "Label",
-                    "zOrder": "237",
+                    "zOrder": "198",
                     "measuredW": "8",
                     "measuredH": "21",
                     "x": "324",
@@ -4565,118 +4019,29 @@
                     }
                 },
                 {
-                    "ID": "238",
-                    "typeID": "Label",
-                    "zOrder": "238",
-                    "measuredW": "221",
-                    "measuredH": "25",
-                    "x": "349",
-                    "y": "1717",
-                    "properties": {
-                        "bold": "true",
-                        "size": "17",
-                        "text": "學習如何監控軟體和基礎建設"
-                    }
-                },
-                {
-                    "ID": "239",
+                    "ID": "243",
                     "typeID": "TextArea",
-                    "zOrder": "239",
+                    "zOrder": "199",
                     "w": "206",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
-                    "x": "820",
+                    "x": "857",
                     "y": "1680",
                     "properties": {
                         "color": "16776960"
                     }
                 },
                 {
-                    "ID": "240",
-                    "typeID": "Label",
-                    "zOrder": "240",
-                    "w": "102",
-                    "measuredW": "90",
-                    "measuredH": "23",
-                    "x": "877",
-                    "y": "1684",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "基礎建設監控"
-                    }
-                },
-                {
-                    "ID": "241",
-                    "typeID": "TextArea",
-                    "zOrder": "241",
-                    "w": "89",
-                    "h": "40",
-                    "measuredW": "200",
-                    "measuredH": "140",
-                    "x": "1088",
-                    "y": "1617",
-                    "properties": {
-                        "color": "16770457",
-                        "text": ""
-                    }
-                },
-                {
-                    "ID": "242",
-                    "typeID": "Label",
-                    "zOrder": "242",
-                    "w": "57",
-                    "measuredW": "47",
-                    "measuredH": "23",
-                    "x": "1106",
-                    "y": "1626",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "Nagios"
-                    }
-                },
-                {
-                    "ID": "243",
-                    "typeID": "TextArea",
-                    "zOrder": "243",
-                    "w": "89",
-                    "h": "40",
-                    "measuredW": "200",
-                    "measuredH": "140",
-                    "x": "1088",
-                    "y": "1661",
-                    "properties": {
-                        "color": "16770457",
-                        "text": ""
-                    }
-                },
-                {
-                    "ID": "244",
-                    "typeID": "Label",
-                    "zOrder": "244",
-                    "w": "57",
-                    "measuredW": "43",
-                    "measuredH": "23",
-                    "x": "1106",
-                    "y": "1670",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "Icinga"
-                    }
-                },
-                {
                     "ID": "245",
                     "typeID": "TextArea",
-                    "zOrder": "245",
+                    "zOrder": "200",
                     "w": "89",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
-                    "x": "1088",
-                    "y": "1704",
+                    "x": "1156",
+                    "y": "1680",
                     "properties": {
                         "color": "16770457",
                         "text": ""
@@ -4685,28 +4050,28 @@
                 {
                     "ID": "246",
                     "typeID": "Label",
-                    "zOrder": "246",
-                    "w": "66",
-                    "measuredW": "59",
+                    "zOrder": "201",
+                    "w": "57",
+                    "measuredW": "48",
                     "measuredH": "23",
-                    "x": "1100",
-                    "y": "1713",
+                    "x": "1174",
+                    "y": "1689",
                     "properties": {
                         "bold": "true",
                         "size": "15",
-                        "text": "Datadog"
+                        "text": "Nagios"
                     }
                 },
                 {
                     "ID": "247",
                     "typeID": "TextArea",
-                    "zOrder": "247",
+                    "zOrder": "202",
                     "w": "89",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
-                    "x": "1089",
-                    "y": "1747",
+                    "x": "1156",
+                    "y": "1724",
                     "properties": {
                         "color": "16770457",
                         "text": ""
@@ -4715,58 +4080,58 @@
                 {
                     "ID": "248",
                     "typeID": "Label",
-                    "zOrder": "248",
-                    "w": "66",
-                    "measuredW": "48",
+                    "zOrder": "203",
+                    "w": "57",
+                    "measuredW": "44",
                     "measuredH": "23",
-                    "x": "1101",
-                    "y": "1756",
+                    "x": "1174",
+                    "y": "1733",
                     "properties": {
                         "bold": "true",
                         "size": "15",
-                        "text": "Zabbix"
+                        "text": "Icinga"
                     }
                 },
                 {
                     "ID": "249",
                     "typeID": "TextArea",
-                    "zOrder": "249",
-                    "w": "206",
+                    "zOrder": "204",
+                    "w": "89",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
-                    "x": "820",
-                    "y": "1747",
+                    "x": "1156",
+                    "y": "1767",
                     "properties": {
-                        "color": "16776960"
+                        "color": "16770457",
+                        "text": ""
                     }
                 },
                 {
                     "ID": "250",
                     "typeID": "Label",
-                    "zOrder": "250",
-                    "w": "102",
-                    "measuredW": "90",
+                    "zOrder": "205",
+                    "w": "66",
+                    "measuredW": "60",
                     "measuredH": "23",
-                    "x": "872",
-                    "y": "1750",
+                    "x": "1168",
+                    "y": "1776",
                     "properties": {
                         "bold": "true",
                         "size": "15",
-                        "text": "應用程式監控",
-                        "align": "center"
+                        "text": "Datadog"
                     }
                 },
                 {
                     "ID": "251",
                     "typeID": "TextArea",
-                    "zOrder": "251",
+                    "zOrder": "206",
                     "w": "89",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
-                    "x": "1089",
-                    "y": "1790",
+                    "x": "1157",
+                    "y": "1810",
                     "properties": {
                         "color": "16770457",
                         "text": ""
@@ -4775,58 +4140,42 @@
                 {
                     "ID": "252",
                     "typeID": "Label",
-                    "zOrder": "252",
-                    "w": "41",
-                    "measuredW": "39",
+                    "zOrder": "207",
+                    "w": "66",
+                    "measuredW": "48",
                     "measuredH": "23",
-                    "x": "1113",
-                    "y": "1799",
+                    "x": "1169",
+                    "y": "1819",
                     "properties": {
                         "bold": "true",
                         "size": "15",
-                        "text": "Monit"
+                        "text": "Zabbix"
                     }
                 },
                 {
                     "ID": "253",
                     "typeID": "TextArea",
-                    "zOrder": "253",
-                    "w": "127",
+                    "zOrder": "208",
+                    "w": "206",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
-                    "x": "935",
-                    "y": "1840",
+                    "x": "857",
+                    "y": "1769",
                     "properties": {
-                        "color": "16770457",
-                        "text": ""
-                    }
-                },
-                {
-                    "ID": "254",
-                    "typeID": "Label",
-                    "zOrder": "254",
-                    "w": "103",
-                    "measuredW": "97",
-                    "measuredH": "23",
-                    "x": "949",
-                    "y": "1849",
-                    "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "AppDynamics"
+                        "color": "16776960"
                     }
                 },
                 {
                     "ID": "255",
                     "typeID": "TextArea",
-                    "zOrder": "255",
-                    "w": "92",
+                    "zOrder": "209",
+                    "w": "89",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
-                    "x": "1069",
-                    "y": "1840",
+                    "x": "1157",
+                    "y": "1853",
                     "properties": {
                         "color": "16770457",
                         "text": ""
@@ -4835,57 +4184,58 @@
                 {
                     "ID": "256",
                     "typeID": "Label",
-                    "zOrder": "256",
-                    "w": "78",
-                    "measuredW": "70",
+                    "zOrder": "210",
+                    "w": "41",
+                    "measuredW": "40",
                     "measuredH": "23",
-                    "x": "1079",
-                    "y": "1849",
+                    "x": "1181",
+                    "y": "1862",
                     "properties": {
                         "bold": "true",
                         "size": "15",
-                        "text": "New Relic"
+                        "text": "Monit"
                     }
                 },
                 {
                     "ID": "257",
                     "typeID": "TextArea",
-                    "zOrder": "257",
-                    "w": "206",
+                    "zOrder": "211",
+                    "w": "127",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
-                    "x": "713",
-                    "y": "1840",
+                    "x": "904",
+                    "y": "1853",
                     "properties": {
-                        "color": "16776960"
+                        "color": "16770457",
+                        "text": ""
                     }
                 },
                 {
                     "ID": "258",
                     "typeID": "Label",
-                    "zOrder": "258",
-                    "w": "71",
-                    "measuredW": "60",
+                    "zOrder": "212",
+                    "w": "103",
+                    "measuredW": "97",
                     "measuredH": "23",
-                    "x": "730",
-                    "y": "1849",
+                    "x": "918",
+                    "y": "1862",
                     "properties": {
                         "bold": "true",
                         "size": "15",
-                        "text": "日誌管理"
+                        "text": "AppDynamics"
                     }
                 },
                 {
                     "ID": "259",
                     "typeID": "TextArea",
-                    "zOrder": "259",
-                    "w": "149",
+                    "zOrder": "213",
+                    "w": "92",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
-                    "x": "522",
-                    "y": "1801",
+                    "x": "1038",
+                    "y": "1853",
                     "properties": {
                         "color": "16770457",
                         "text": ""
@@ -4894,58 +4244,42 @@
                 {
                     "ID": "260",
                     "typeID": "Label",
-                    "zOrder": "260",
-                    "w": "80",
-                    "measuredW": "74",
+                    "zOrder": "214",
+                    "w": "78",
+                    "measuredW": "71",
                     "measuredH": "23",
-                    "x": "557",
-                    "y": "1810",
+                    "x": "1048",
+                    "y": "1862",
                     "properties": {
                         "bold": "true",
                         "size": "15",
-                        "text": "ELK Stack"
+                        "text": "New Relic"
                     }
                 },
                 {
                     "ID": "261",
                     "typeID": "TextArea",
-                    "zOrder": "261",
-                    "w": "149",
+                    "zOrder": "215",
+                    "w": "189",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
-                    "x": "523",
-                    "y": "1845",
-                    "properties": {
-                        "color": "16770457",
-                        "text": ""
-                    }
-                },
-                {
-                    "ID": "262",
-                    "typeID": "Label",
-                    "zOrder": "262",
-                    "w": "59",
-                    "measuredW": "53",
-                    "measuredH": "23",
-                    "x": "564",
+                    "x": "693",
                     "y": "1854",
                     "properties": {
-                        "bold": "true",
-                        "size": "15",
-                        "text": "Graylog"
+                        "color": "16776960"
                     }
                 },
                 {
                     "ID": "263",
                     "typeID": "TextArea",
-                    "zOrder": "263",
+                    "zOrder": "216",
                     "w": "149",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
-                    "x": "523",
-                    "y": "1889",
+                    "x": "510",
+                    "y": "1800",
                     "properties": {
                         "color": "16770457",
                         "text": ""
@@ -4954,28 +4288,28 @@
                 {
                     "ID": "264",
                     "typeID": "Label",
-                    "zOrder": "264",
-                    "w": "53",
-                    "measuredW": "47",
+                    "zOrder": "217",
+                    "w": "80",
+                    "measuredW": "75",
                     "measuredH": "23",
-                    "x": "572",
-                    "y": "1897",
+                    "x": "545",
+                    "y": "1809",
                     "properties": {
                         "bold": "true",
                         "size": "15",
-                        "text": "Splunk"
+                        "text": "ELK Stack"
                     }
                 },
                 {
                     "ID": "265",
                     "typeID": "TextArea",
-                    "zOrder": "265",
+                    "zOrder": "218",
                     "w": "149",
                     "h": "40",
                     "measuredW": "200",
                     "measuredH": "140",
-                    "x": "524",
-                    "y": "1933",
+                    "x": "511",
+                    "y": "1844",
                     "properties": {
                         "color": "16770457",
                         "text": ""
@@ -4984,12 +4318,72 @@
                 {
                     "ID": "266",
                     "typeID": "Label",
-                    "zOrder": "266",
+                    "zOrder": "219",
+                    "w": "59",
+                    "measuredW": "54",
+                    "measuredH": "23",
+                    "x": "552",
+                    "y": "1853",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "Graylog"
+                    }
+                },
+                {
+                    "ID": "267",
+                    "typeID": "TextArea",
+                    "zOrder": "220",
+                    "w": "149",
+                    "h": "40",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "511",
+                    "y": "1888",
+                    "properties": {
+                        "color": "16770457",
+                        "text": ""
+                    }
+                },
+                {
+                    "ID": "268",
+                    "typeID": "Label",
+                    "zOrder": "221",
+                    "w": "53",
+                    "measuredW": "47",
+                    "measuredH": "23",
+                    "x": "560",
+                    "y": "1896",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "Splunk"
+                    }
+                },
+                {
+                    "ID": "269",
+                    "typeID": "TextArea",
+                    "zOrder": "222",
+                    "w": "149",
+                    "h": "40",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "512",
+                    "y": "1932",
+                    "properties": {
+                        "color": "16770457",
+                        "text": ""
+                    }
+                },
+                {
+                    "ID": "270",
+                    "typeID": "Label",
+                    "zOrder": "223",
                     "w": "79",
                     "measuredW": "69",
                     "measuredH": "23",
-                    "x": "563",
-                    "y": "1941",
+                    "x": "551",
+                    "y": "1940",
                     "properties": {
                         "bold": "true",
                         "size": "15",
@@ -4997,9 +4391,9 @@
                     }
                 },
                 {
-                    "ID": "267",
+                    "ID": "271",
                     "typeID": "TextArea",
-                    "zOrder": "267",
+                    "zOrder": "224",
                     "w": "258",
                     "h": "49",
                     "measuredW": "200",
@@ -5012,9 +4406,9 @@
                     }
                 },
                 {
-                    "ID": "268",
+                    "ID": "272",
                     "typeID": "Icon",
-                    "zOrder": "268",
+                    "zOrder": "225",
                     "measuredW": "24",
                     "measuredH": "24",
                     "x": "282",
@@ -5028,9 +4422,9 @@
                     }
                 },
                 {
-                    "ID": "269",
+                    "ID": "273",
                     "typeID": "Label",
-                    "zOrder": "269",
+                    "zOrder": "226",
                     "measuredW": "8",
                     "measuredH": "21",
                     "x": "290",
@@ -5042,24 +4436,9 @@
                     }
                 },
                 {
-                    "ID": "270",
-                    "typeID": "Label",
-                    "zOrder": "270",
-                    "w": "185",
-                    "measuredW": "85",
-                    "measuredH": "25",
-                    "x": "315",
-                    "y": "2028",
-                    "properties": {
-                        "bold": "true",
-                        "size": "17",
-                        "text": "雲端供應商"
-                    }
-                },
-                {
-                    "ID": "271",
+                    "ID": "275",
                     "typeID": "TextArea",
-                    "zOrder": "271",
+                    "zOrder": "227",
                     "w": "149",
                     "h": "40",
                     "measuredW": "200",
@@ -5072,11 +4451,11 @@
                     }
                 },
                 {
-                    "ID": "272",
+                    "ID": "276",
                     "typeID": "Label",
-                    "zOrder": "272",
+                    "zOrder": "228",
                     "w": "43",
-                    "measuredW": "33",
+                    "measuredW": "34",
                     "measuredH": "23",
                     "x": "184",
                     "y": "1786",
@@ -5087,9 +4466,9 @@
                     }
                 },
                 {
-                    "ID": "273",
+                    "ID": "277",
                     "typeID": "TextArea",
-                    "zOrder": "273",
+                    "zOrder": "229",
                     "w": "149",
                     "h": "40",
                     "measuredW": "200",
@@ -5102,9 +4481,9 @@
                     }
                 },
                 {
-                    "ID": "274",
+                    "ID": "278",
                     "typeID": "Label",
-                    "zOrder": "274",
+                    "zOrder": "230",
                     "w": "100",
                     "measuredW": "95",
                     "measuredH": "23",
@@ -5117,9 +4496,9 @@
                     }
                 },
                 {
-                    "ID": "275",
+                    "ID": "279",
                     "typeID": "TextArea",
-                    "zOrder": "275",
+                    "zOrder": "231",
                     "w": "149",
                     "h": "40",
                     "measuredW": "200",
@@ -5132,9 +4511,9 @@
                     }
                 },
                 {
-                    "ID": "276",
+                    "ID": "280",
                     "typeID": "Label",
-                    "zOrder": "276",
+                    "zOrder": "232",
                     "w": "47",
                     "measuredW": "42",
                     "measuredH": "23",
@@ -5147,9 +4526,9 @@
                     }
                 },
                 {
-                    "ID": "277",
+                    "ID": "281",
                     "typeID": "TextArea",
-                    "zOrder": "277",
+                    "zOrder": "233",
                     "w": "149",
                     "h": "40",
                     "measuredW": "200",
@@ -5162,11 +4541,11 @@
                     }
                 },
                 {
-                    "ID": "278",
+                    "ID": "282",
                     "typeID": "Label",
-                    "zOrder": "278",
+                    "zOrder": "234",
                     "w": "99",
-                    "measuredW": "96",
+                    "measuredW": "97",
                     "measuredH": "23",
                     "x": "159",
                     "y": "1918",
@@ -5177,9 +4556,9 @@
                     }
                 },
                 {
-                    "ID": "279",
+                    "ID": "283",
                     "typeID": "TextArea",
-                    "zOrder": "279",
+                    "zOrder": "235",
                     "w": "149",
                     "h": "40",
                     "measuredW": "200",
@@ -5192,11 +4571,11 @@
                     }
                 },
                 {
-                    "ID": "280",
+                    "ID": "284",
                     "typeID": "Label",
-                    "zOrder": "280",
+                    "zOrder": "236",
                     "w": "66",
-                    "measuredW": "50",
+                    "measuredW": "51",
                     "measuredH": "23",
                     "x": "179",
                     "y": "1961",
@@ -5207,37 +4586,185 @@
                     }
                 },
                 {
-                    "ID": "281",
+                    "ID": "286",
+                    "typeID": "TextArea",
+                    "zOrder": "237",
+                    "w": "219",
+                    "h": "40",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "886",
+                    "y": "1444",
+                    "properties": {
+                        "color": "16776960"
+                    }
+                },
+                {
+                    "ID": "288",
+                    "typeID": "TextArea",
+                    "zOrder": "238",
+                    "w": "115",
+                    "h": "40",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "886",
+                    "y": "1525",
+                    "properties": {
+                        "color": "16776960"
+                    }
+                },
+                {
+                    "ID": "289",
                     "typeID": "Label",
-                    "zOrder": "281",
-                    "measuredW": "96",
-                    "measuredH": "32",
-                    "x": "678",
-                    "y": "2254",
+                    "zOrder": "239",
+                    "w": "88",
+                    "measuredW": "84",
+                    "measuredH": "23",
+                    "x": "901",
+                    "y": "1534",
                     "properties": {
                         "bold": "true",
-                        "size": "24",
-                        "text": "繼續探索"
+                        "size": "15",
+                        "text": "Kubernetes"
                     }
                 },
                 {
-                    "ID": "282",
-                    "typeID": "Label",
-                    "zOrder": "282",
-                    "measuredW": "298",
-                    "measuredH": "19",
-                    "x": "723",
-                    "y": "1344",
+                    "ID": "290",
+                    "typeID": "TextArea",
+                    "zOrder": "240",
+                    "w": "99",
+                    "h": "40",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "1006",
+                    "y": "1526",
                     "properties": {
-                        "bold": "false",
-                        "size": "11",
-                        "text": "*譯註：Infrastructure 又譯為基礎架構、基礎結構、基礎設施"
+                        "color": "16770457"
                     }
                 },
                 {
-                    "ID": "283",
+                    "ID": "291",
+                    "typeID": "Label",
+                    "zOrder": "241",
+                    "w": "51",
+                    "measuredW": "47",
+                    "measuredH": "23",
+                    "x": "1027",
+                    "y": "1535",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "Mesos"
+                    }
+                },
+                {
+                    "ID": "292",
+                    "typeID": "TextArea",
+                    "zOrder": "242",
+                    "w": "115",
+                    "h": "40",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "886",
+                    "y": "1568",
+                    "properties": {
+                        "color": "16770457"
+                    }
+                },
+                {
+                    "ID": "293",
+                    "typeID": "Label",
+                    "zOrder": "243",
+                    "w": "112",
+                    "measuredW": "103",
+                    "measuredH": "23",
+                    "x": "892",
+                    "y": "1577",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "Docker Swarm"
+                    }
+                },
+                {
+                    "ID": "294",
+                    "typeID": "TextArea",
+                    "zOrder": "244",
+                    "w": "99",
+                    "h": "40",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "1006",
+                    "y": "1569",
+                    "properties": {
+                        "color": "16770457"
+                    }
+                },
+                {
+                    "ID": "295",
+                    "typeID": "Label",
+                    "zOrder": "245",
+                    "w": "51",
+                    "measuredW": "50",
+                    "measuredH": "23",
+                    "x": "1027",
+                    "y": "1578",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "Nomad"
+                    }
+                },
+                {
+                    "ID": "296",
+                    "typeID": "Label",
+                    "zOrder": "246",
+                    "measuredW": "133",
+                    "measuredH": "25",
+                    "x": "849",
+                    "y": "135",
+                    "properties": {
+                        "bold": "true",
+                        "color": "10027263",
+                        "size": "17",
+                        "text": "kamranahmedse"
+                    }
+                },
+                {
+                    "ID": "297",
                     "typeID": "Icon",
-                    "zOrder": "283",
+                    "zOrder": "247",
+                    "measuredW": "32",
+                    "measuredH": "32",
+                    "x": "809",
+                    "y": "89",
+                    "properties": {
+                        "color": "10027263",
+                        "icon": {
+                            "ID": "github",
+                            "size": "medium"
+                        }
+                    }
+                },
+                {
+                    "ID": "298",
+                    "typeID": "Label",
+                    "zOrder": "248",
+                    "measuredW": "295",
+                    "measuredH": "25",
+                    "x": "848",
+                    "y": "83",
+                    "properties": {
+                        "bold": "true",
+                        "color": "10027263",
+                        "size": "17",
+                        "text": "kamranahmedse/developer-roadmap"
+                    }
+                },
+                {
+                    "ID": "299",
+                    "typeID": "Icon",
+                    "zOrder": "249",
                     "measuredW": "32",
                     "measuredH": "32",
                     "x": "809",
@@ -5251,10 +4778,10 @@
                     }
                 },
                 {
-                    "ID": "284",
+                    "ID": "300",
                     "typeID": "Label",
-                    "zOrder": "284",
-                    "measuredW": "304",
+                    "zOrder": "250",
+                    "measuredW": "305",
                     "measuredH": "25",
                     "x": "848",
                     "y": "104",
@@ -5266,9 +4793,9 @@
                     }
                 },
                 {
-                    "ID": "285",
+                    "ID": "301",
                     "typeID": "Label",
-                    "zOrder": "285",
+                    "zOrder": "251",
                     "measuredW": "110",
                     "measuredH": "25",
                     "x": "849",
@@ -5281,108 +4808,9 @@
                     }
                 },
                 {
-                    "ID": "287",
+                    "ID": "302",
                     "typeID": "Label",
-                    "zOrder": "286",
-                    "measuredW": "71",
-                    "measuredH": "19",
-                    "x": "532",
-                    "y": "1457",
-                    "properties": {
-                        "bold": "false",
-                        "size": "11",
-                        "text": "（Container）"
-                    }
-                },
-                {
-                    "ID": "288",
-                    "typeID": "Label",
-                    "zOrder": "287",
-                    "measuredW": "160",
-                    "measuredH": "19",
-                    "x": "705",
-                    "y": "1457",
-                    "properties": {
-                        "bold": "false",
-                        "size": "11",
-                        "text": "（Configuration Managerment）"
-                    }
-                },
-                {
-                    "ID": "289",
-                    "typeID": "Label",
-                    "zOrder": "288",
-                    "measuredW": "137",
-                    "measuredH": "19",
-                    "x": "794",
-                    "y": "1391",
-                    "properties": {
-                        "bold": "false",
-                        "size": "11",
-                        "text": "（Infrastructure as Code）"
-                    }
-                },
-                {
-                    "ID": "290",
-                    "typeID": "Label",
-                    "zOrder": "289",
-                    "w": "155",
-                    "measuredW": "155",
-                    "measuredH": "19",
-                    "x": "986",
-                    "y": "1457",
-                    "properties": {
-                        "bold": "false",
-                        "size": "11",
-                        "text": "（Infrastructure Provisioning）"
-                    }
-                },
-                {
-                    "ID": "291",
-                    "typeID": "Label",
-                    "zOrder": "290",
-                    "measuredW": "147",
-                    "measuredH": "19",
-                    "x": "850",
-                    "y": "1701",
-                    "properties": {
-                        "bold": "false",
-                        "size": "11",
-                        "text": "（Infrastructure Monitoring）"
-                    }
-                },
-                {
-                    "ID": "292",
-                    "typeID": "Label",
-                    "zOrder": "291",
-                    "measuredW": "132",
-                    "measuredH": "19",
-                    "x": "858",
-                    "y": "1767",
-                    "properties": {
-                        "bold": "false",
-                        "size": "11",
-                        "text": "（Application Monitoring）"
-                    }
-                },
-                {
-                    "ID": "293",
-                    "typeID": "Label",
-                    "zOrder": "292",
-                    "measuredW": "115",
-                    "measuredH": "19",
-                    "x": "787",
-                    "y": "1851",
-                    "properties": {
-                        "bold": "false",
-                        "size": "11",
-                        "text": "（Logs Management）"
-                    }
-                },
-                {
-                    "ID": "296",
-                    "typeID": "Label",
-                    "zOrder": "293",
+                    "zOrder": "252",
                     "measuredW": "88",
                     "measuredH": "19",
                     "x": "1152",
@@ -5395,9 +4823,9 @@
                     }
                 },
                 {
-                    "ID": "297",
+                    "ID": "303",
                     "typeID": "Label",
-                    "zOrder": "294",
+                    "zOrder": "253",
                     "measuredW": "88",
                     "measuredH": "19",
                     "x": "959",
@@ -5410,9 +4838,746 @@
                     }
                 },
                 {
-                    "ID": "298",
+                    "ID": "304",
+                    "typeID": "Label",
+                    "zOrder": "254",
+                    "measuredW": "187",
+                    "measuredH": "25",
+                    "x": "499",
+                    "y": "369",
+                    "properties": {
+                        "color": "0",
+                        "size": "17",
+                        "text": "選擇哪種語言並不重要，"
+                    }
+                },
+                {
+                    "ID": "305",
+                    "typeID": "Label",
+                    "zOrder": "255",
+                    "measuredW": "255",
+                    "measuredH": "25",
+                    "x": "499",
+                    "y": "400",
+                    "properties": {
+                        "color": "0",
+                        "size": "17",
+                        "text": "關鍵是學到一些程式設計的知識。"
+                    }
+                },
+                {
+                    "ID": "306",
+                    "typeID": "Label",
+                    "zOrder": "256",
+                    "w": "156",
+                    "measuredW": "149",
+                    "measuredH": "23",
+                    "x": "243",
+                    "y": "474",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "行程（Process）管理",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "307",
+                    "typeID": "Label",
+                    "zOrder": "257",
+                    "w": "198",
+                    "measuredW": "170",
+                    "measuredH": "23",
+                    "x": "220",
+                    "y": "518",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "執行緒（Thread）和並行",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "308",
+                    "typeID": "Label",
+                    "zOrder": "258",
+                    "w": "186",
+                    "measuredW": "140",
+                    "measuredH": "23",
+                    "x": "227",
+                    "y": "566",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "網路插座（Socket）",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "309",
+                    "typeID": "Label",
+                    "zOrder": "259",
+                    "measuredW": "119",
+                    "measuredH": "25",
+                    "x": "528",
+                    "y": "629",
+                    "properties": {
+                        "bold": "true",
+                        "size": "17",
+                        "text": "學習管理伺服器"
+                    }
+                },
+                {
+                    "ID": "310",
+                    "typeID": "Label",
+                    "zOrder": "260",
+                    "w": "352",
+                    "measuredW": "225",
+                    "measuredH": "23",
+                    "x": "498",
+                    "y": "660",
+                    "properties": {
+                        "size": "15",
+                        "text": "在一些作業系統中管理一些東西。"
+                    }
+                },
+                {
+                    "ID": "311",
+                    "typeID": "Label",
+                    "zOrder": "261",
+                    "w": "352",
+                    "measuredW": "195",
+                    "measuredH": "23",
+                    "x": "498",
+                    "y": "684",
+                    "properties": {
+                        "size": "15",
+                        "text": "尤其是任何 Linux 的發行版。"
+                    }
+                },
+                {
+                    "ID": "312",
+                    "typeID": "Label",
+                    "zOrder": "262",
+                    "measuredW": "187",
+                    "measuredH": "25",
+                    "x": "533",
+                    "y": "526",
+                    "properties": {
+                        "bold": "true",
+                        "size": "17",
+                        "text": "瞭解不同的作業系統概念"
+                    }
+                },
+                {
+                    "ID": "313",
+                    "typeID": "Label",
+                    "zOrder": "263",
+                    "w": "123",
+                    "measuredW": "121",
+                    "measuredH": "23",
+                    "x": "965",
+                    "y": "561",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "記憶體 / 儲存空間"
+                    }
+                },
+                {
+                    "ID": "314",
+                    "typeID": "Label",
+                    "zOrder": "264",
+                    "w": "123",
+                    "measuredW": "58",
+                    "measuredH": "23",
+                    "x": "967",
+                    "y": "471",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "I/O 管理",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "315",
+                    "typeID": "Label",
+                    "zOrder": "265",
+                    "w": "102",
+                    "measuredW": "45",
+                    "measuredH": "23",
+                    "x": "977",
+                    "y": "516",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "虛擬化",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "316",
+                    "typeID": "Label",
+                    "zOrder": "266",
+                    "w": "334",
+                    "measuredW": "323",
+                    "measuredH": "23",
+                    "x": "497",
+                    "y": "709",
+                    "properties": {
+                        "size": "15",
+                        "text": "如果你沒有什麼 Linux 的經驗，就選擇 Ubuntu。"
+                    }
+                },
+                {
+                    "ID": "317",
+                    "typeID": "Label",
+                    "zOrder": "267",
+                    "w": "104",
+                    "measuredW": "60",
+                    "measuredH": "23",
+                    "x": "975",
+                    "y": "607",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "檔案系統",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "318",
+                    "typeID": "Label",
+                    "zOrder": "268",
+                    "w": "130",
+                    "measuredW": "60",
+                    "measuredH": "23",
+                    "x": "252",
+                    "y": "642",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "作業系統",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "319",
+                    "typeID": "Label",
+                    "zOrder": "269",
+                    "w": "184",
+                    "measuredW": "135",
+                    "measuredH": "23",
+                    "x": "938",
+                    "y": "709",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "學會生活在終端機中",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "320",
+                    "typeID": "Label",
+                    "zOrder": "270",
+                    "w": "156",
+                    "measuredW": "150",
+                    "measuredH": "23",
+                    "x": "923",
+                    "y": "880",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "從原始碼編譯應用程式"
+                    }
+                },
+                {
+                    "ID": "321",
+                    "typeID": "Label",
+                    "zOrder": "271",
+                    "w": "111",
+                    "measuredW": "105",
+                    "measuredH": "23",
+                    "x": "901",
+                    "y": "793",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "學習 Bash 腳本"
+                    }
+                },
+                {
+                    "ID": "322",
+                    "typeID": "Label",
+                    "zOrder": "272",
+                    "w": "242",
+                    "measuredW": "234",
+                    "measuredH": "23",
+                    "x": "880",
+                    "y": "900",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "（gcc、make 和其他相關的東西）"
+                    }
+                },
+                {
+                    "ID": "323",
+                    "typeID": "Label",
+                    "zOrder": "273",
+                    "w": "96",
+                    "measuredW": "90",
+                    "measuredH": "23",
+                    "x": "670",
+                    "y": "797",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "文字處理工具"
+                    }
+                },
+                {
+                    "ID": "324",
+                    "typeID": "Label",
+                    "zOrder": "274",
+                    "w": "157",
+                    "measuredW": "149",
+                    "measuredH": "23",
+                    "x": "648",
+                    "y": "905",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "行程（Process）監控"
+                    }
+                },
+                {
+                    "ID": "325",
+                    "typeID": "Label",
+                    "zOrder": "275",
+                    "w": "69",
+                    "measuredW": "60",
+                    "measuredH": "23",
+                    "x": "940",
+                    "y": "953",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "系統性能"
+                    }
+                },
+                {
+                    "ID": "326",
+                    "typeID": "Label",
+                    "zOrder": "276",
+                    "w": "33",
+                    "measuredW": "30",
+                    "measuredH": "23",
+                    "x": "701",
+                    "y": "992",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "網路"
+                    }
+                },
+                {
+                    "ID": "327",
+                    "typeID": "Label",
+                    "zOrder": "277",
+                    "w": "34",
+                    "measuredW": "30",
+                    "measuredH": "23",
+                    "x": "885",
+                    "y": "1047",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "其他"
+                    }
+                },
+                {
+                    "ID": "328",
+                    "typeID": "Label",
+                    "zOrder": "278",
+                    "measuredW": "85",
+                    "measuredH": "25",
+                    "x": "288",
+                    "y": "972",
+                    "properties": {
+                        "bold": "true",
+                        "size": "17",
+                        "text": "網路與安全"
+                    }
+                },
+                {
+                    "ID": "329",
+                    "typeID": "Label",
+                    "zOrder": "279",
+                    "w": "79",
+                    "measuredW": "62",
+                    "measuredH": "23",
+                    "x": "209",
+                    "y": "915",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "OSI 模型"
+                    }
+                },
+                {
+                    "ID": "330",
+                    "typeID": "Label",
+                    "zOrder": "280",
+                    "measuredW": "261",
+                    "measuredH": "25",
+                    "x": "447",
+                    "y": "1135",
+                    "properties": {
+                        "bold": "true",
+                        "size": "17",
+                        "text": "什麼是 ____________，如何安裝"
+                    }
+                },
+                {
+                    "ID": "331",
+                    "typeID": "Label",
+                    "zOrder": "281",
+                    "w": "80",
+                    "measuredW": "75",
+                    "measuredH": "23",
+                    "x": "894",
+                    "y": "1206",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "網頁伺服器"
+                    }
+                },
+                {
+                    "ID": "332",
+                    "typeID": "Label",
+                    "zOrder": "282",
+                    "w": "67",
+                    "measuredW": "60",
+                    "measuredH": "23",
+                    "x": "426",
+                    "y": "1263",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "正向代理"
+                    }
+                },
+                {
+                    "ID": "333",
+                    "typeID": "Label",
+                    "zOrder": "283",
+                    "w": "80",
+                    "measuredW": "75",
+                    "measuredH": "23",
+                    "x": "573",
+                    "y": "1219",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "快取伺服器"
+                    }
+                },
+                {
+                    "ID": "334",
+                    "typeID": "Label",
+                    "zOrder": "284",
+                    "w": "62",
+                    "measuredW": "60",
+                    "measuredH": "23",
+                    "x": "427",
+                    "y": "1219",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "反向代理"
+                    }
+                },
+                {
+                    "ID": "335",
+                    "typeID": "Label",
+                    "zOrder": "285",
+                    "w": "76",
+                    "measuredW": "75",
+                    "measuredH": "23",
+                    "x": "572",
+                    "y": "1263",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "負載平衡器"
+                    }
+                },
+                {
+                    "ID": "336",
+                    "typeID": "Label",
+                    "zOrder": "286",
+                    "w": "60",
+                    "measuredW": "45",
+                    "measuredH": "23",
+                    "x": "512",
+                    "y": "1313",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "防火牆"
+                    }
+                },
+                {
+                    "ID": "337",
+                    "typeID": "Label",
+                    "zOrder": "287",
+                    "measuredW": "233",
+                    "measuredH": "25",
+                    "x": "766",
+                    "y": "1372",
+                    "properties": {
+                        "bold": "true",
+                        "size": "17",
+                        "text": "學習基礎建設即程式碼（IaC）"
+                    }
+                },
+                {
+                    "ID": "338",
+                    "typeID": "Label",
+                    "zOrder": "288",
+                    "measuredW": "298",
+                    "measuredH": "19",
+                    "x": "723",
+                    "y": "1344",
+                    "properties": {
+                        "bold": "false",
+                        "size": "11",
+                        "text": "*譯註：Infrastructure 又譯為基礎架構、基礎結構、基礎設施"
+                    }
+                },
+                {
+                    "ID": "339",
+                    "typeID": "Label",
+                    "zOrder": "289",
+                    "measuredW": "137",
+                    "measuredH": "19",
+                    "x": "794",
+                    "y": "1391",
+                    "properties": {
+                        "bold": "false",
+                        "size": "11",
+                        "text": "（Infrastructure as Code）"
+                    }
+                },
+                {
+                    "ID": "340",
+                    "typeID": "Label",
+                    "zOrder": "290",
+                    "measuredW": "94",
+                    "measuredH": "19",
+                    "x": "410",
+                    "y": "1279",
+                    "properties": {
+                        "bold": "false",
+                        "size": "11",
+                        "text": "（Forward Proxy）"
+                    }
+                },
+                {
+                    "ID": "341",
+                    "typeID": "Label",
+                    "zOrder": "291",
+                    "measuredW": "95",
+                    "measuredH": "19",
+                    "x": "410",
+                    "y": "1236",
+                    "properties": {
+                        "bold": "false",
+                        "size": "11",
+                        "text": "（Reverse Proxy）"
+                    }
+                },
+                {
+                    "ID": "342",
+                    "typeID": "Label",
+                    "zOrder": "292",
+                    "measuredW": "95",
+                    "measuredH": "19",
+                    "x": "563",
+                    "y": "1280",
+                    "properties": {
+                        "bold": "false",
+                        "size": "11",
+                        "text": "（Load Balancer）"
+                    }
+                },
+                {
+                    "ID": "343",
+                    "typeID": "Label",
+                    "zOrder": "293",
+                    "measuredW": "101",
+                    "measuredH": "19",
+                    "x": "560",
+                    "y": "1237",
+                    "properties": {
+                        "bold": "false",
+                        "size": "11",
+                        "text": "（Caching Server）"
+                    }
+                },
+                {
+                    "ID": "344",
+                    "typeID": "Label",
+                    "zOrder": "294",
+                    "measuredW": "163",
+                    "measuredH": "25",
+                    "x": "171",
+                    "y": "1470",
+                    "properties": {
+                        "bold": "true",
+                        "size": "17",
+                        "text": "學習一些 CI/CD 工具"
+                    }
+                },
+                {
+                    "ID": "345",
                     "typeID": "Label",
                     "zOrder": "295",
+                    "measuredW": "221",
+                    "measuredH": "25",
+                    "x": "349",
+                    "y": "1717",
+                    "properties": {
+                        "bold": "true",
+                        "size": "17",
+                        "text": "學習如何監控軟體和基礎建設"
+                    }
+                },
+                {
+                    "ID": "346",
+                    "typeID": "Label",
+                    "zOrder": "296",
+                    "w": "102",
+                    "measuredW": "90",
+                    "measuredH": "23",
+                    "x": "910",
+                    "y": "1683",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "基礎建設監控"
+                    }
+                },
+                {
+                    "ID": "347",
+                    "typeID": "Label",
+                    "zOrder": "297",
+                    "w": "102",
+                    "measuredW": "90",
+                    "measuredH": "23",
+                    "x": "905",
+                    "y": "1771",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "應用程式監控",
+                        "align": "center"
+                    }
+                },
+                {
+                    "ID": "348",
+                    "typeID": "Label",
+                    "zOrder": "298",
+                    "w": "71",
+                    "measuredW": "60",
+                    "measuredH": "23",
+                    "x": "701",
+                    "y": "1862",
+                    "properties": {
+                        "bold": "true",
+                        "size": "15",
+                        "text": "日誌管理"
+                    }
+                },
+                {
+                    "ID": "349",
+                    "typeID": "Label",
+                    "zOrder": "299",
+                    "w": "185",
+                    "measuredW": "85",
+                    "measuredH": "25",
+                    "x": "315",
+                    "y": "2028",
+                    "properties": {
+                        "bold": "true",
+                        "size": "17",
+                        "text": "雲端供應商"
+                    }
+                },
+                {
+                    "ID": "350",
+                    "typeID": "Label",
+                    "zOrder": "300",
+                    "measuredW": "96",
+                    "measuredH": "32",
+                    "x": "678",
+                    "y": "2254",
+                    "properties": {
+                        "bold": "true",
+                        "size": "24",
+                        "text": "繼續探索"
+                    }
+                },
+                {
+                    "ID": "351",
+                    "typeID": "Label",
+                    "zOrder": "301",
+                    "measuredW": "147",
+                    "measuredH": "19",
+                    "x": "883",
+                    "y": "1700",
+                    "properties": {
+                        "bold": "false",
+                        "size": "11",
+                        "text": "（Infrastructure Monitoring）"
+                    }
+                },
+                {
+                    "ID": "352",
+                    "typeID": "Label",
+                    "zOrder": "302",
+                    "measuredW": "132",
+                    "measuredH": "19",
+                    "x": "891",
+                    "y": "1788",
+                    "properties": {
+                        "bold": "false",
+                        "size": "11",
+                        "text": "（Application Monitoring）"
+                    }
+                },
+                {
+                    "ID": "353",
+                    "typeID": "Label",
+                    "zOrder": "303",
+                    "measuredW": "116",
+                    "measuredH": "19",
+                    "x": "758",
+                    "y": "1864",
+                    "properties": {
+                        "bold": "false",
+                        "size": "11",
+                        "text": "（Logs Management）"
+                    }
+                },
+                {
+                    "ID": "354",
+                    "typeID": "Label",
+                    "zOrder": "304",
                     "measuredW": "115",
                     "measuredH": "19",
                     "x": "328",
@@ -5425,66 +5590,124 @@
                     }
                 },
                 {
-                    "ID": "299",
+                    "ID": "355",
                     "typeID": "Label",
-                    "zOrder": "296",
-                    "measuredW": "93",
-                    "measuredH": "19",
-                    "x": "410",
-                    "y": "1279",
+                    "zOrder": "305",
+                    "measuredW": "102",
+                    "measuredH": "25",
+                    "x": "1117",
+                    "y": "1454",
                     "properties": {
-                        "bold": "false",
-                        "size": "11",
-                        "text": "（Forward Proxy）"
+                        "bold": "true",
+                        "size": "17",
+                        "text": "基礎建設佈建"
                     }
                 },
                 {
-                    "ID": "301",
+                    "ID": "356",
                     "typeID": "Label",
-                    "zOrder": "297",
-                    "measuredW": "95",
-                    "measuredH": "19",
-                    "x": "410",
-                    "y": "1236",
+                    "zOrder": "306",
+                    "measuredW": "68",
+                    "measuredH": "25",
+                    "x": "640",
+                    "y": "1452",
                     "properties": {
-                        "bold": "false",
-                        "size": "11",
-                        "text": "（Reverse Proxy）"
+                        "bold": "true",
+                        "size": "17",
+                        "text": "組態管理"
                     }
                 },
                 {
-                    "ID": "302",
+                    "ID": "357",
                     "typeID": "Label",
-                    "zOrder": "298",
-                    "measuredW": "95",
-                    "measuredH": "19",
-                    "x": "563",
-                    "y": "1280",
+                    "zOrder": "307",
+                    "measuredW": "34",
+                    "measuredH": "25",
+                    "x": "499",
+                    "y": "1452",
                     "properties": {
-                        "bold": "false",
-                        "size": "11",
-                        "text": "（Load Balancer）"
+                        "bold": "true",
+                        "size": "17",
+                        "text": "容器"
                     }
                 },
                 {
-                    "ID": "303",
+                    "ID": "358",
                     "typeID": "Label",
-                    "zOrder": "299",
-                    "measuredW": "101",
+                    "zOrder": "308",
+                    "measuredW": "72",
                     "measuredH": "19",
-                    "x": "560",
-                    "y": "1237",
+                    "x": "532",
+                    "y": "1457",
                     "properties": {
                         "bold": "false",
                         "size": "11",
-                        "text": "（Caching Server）"
+                        "text": "（Container）"
+                    }
+                },
+                {
+                    "ID": "359",
+                    "typeID": "Label",
+                    "zOrder": "309",
+                    "measuredW": "161",
+                    "measuredH": "19",
+                    "x": "705",
+                    "y": "1457",
+                    "properties": {
+                        "bold": "false",
+                        "size": "11",
+                        "text": "（Configuration Managerment）"
+                    }
+                },
+                {
+                    "ID": "360",
+                    "typeID": "Label",
+                    "zOrder": "310",
+                    "w": "155",
+                    "measuredW": "155",
+                    "measuredH": "19",
+                    "x": "1213",
+                    "y": "1459",
+                    "properties": {
+                        "bold": "false",
+                        "size": "11",
+                        "text": "（Infrastructure Provisioning）"
+                    }
+                },
+                {
+                    "ID": "361",
+                    "typeID": "Label",
+                    "zOrder": "311",
+                    "measuredW": "68",
+                    "measuredH": "25",
+                    "x": "896",
+                    "y": "1452",
+                    "properties": {
+                        "bold": "true",
+                        "size": "17",
+                        "text": "容器協作"
+                    }
+                },
+                {
+                    "ID": "362",
+                    "typeID": "Label",
+                    "zOrder": "312",
+                    "w": "144",
+                    "measuredW": "141",
+                    "measuredH": "19",
+                    "x": "963",
+                    "y": "1457",
+                    "properties": {
+                        "bold": "false",
+                        "size": "11",
+                        "text": "（Container Orchestration）"
                     }
                 }
             ]
         },
         "mockupH": "2216",
-        "mockupW": "1109",
-        "measuredW": "1240",
+        "mockupW": "1237",
+        "measuredW": "1368",
         "measuredH": "2286",
         "version": "1.0"
     }
