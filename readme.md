@@ -1,13 +1,27 @@
-![Web 開發人員路線圖](./chinese-version/images/banner.png)
+<p align="center">
+  <a href="http://github.com/goodjack/developer-roadmap-chinese">
+    <img src="https://i.imgur.com/Uid1O3A.png" alt="開發人員路線圖" width="96" height="96">
+  </a>
+  <h2 align="center">開發人員路線圖</h2>
+  <p align="center">2019 年成為 Web 開發人員的路線圖</p>
+  <p align="center">
+    <a href="https://github.com/goodjack/developer-roadmap-chinese#-introduction"><img src="https://img.shields.io/badge/中文路線圖-2019-yellowgreen.svg"/></a>
+    <a href="https://github.com/goodjack/developer-roadmap-chinese/releases"><img src="https://img.shields.io/badge/中文路線圖-舊版-yellow.svg"/></a>
+    <a href="https://twitter.com/home?status=%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E8%B7%AF%E7%B7%9A%E5%9C%96%20by%20%40kamranahmedse%0A%E5%8F%B0%E7%81%A3%E6%AD%A3%E9%AB%94%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AD%AF%20by%20%40littlegoodjack%0Ahttps%3A//github.com/goodjack/developer-roadmap-chinese"><img src="https://img.shields.io/badge/Twitter-發推-blue.svg"/></a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/goodjack/developer-roadmap-chinese"><img src="https://img.shields.io/badge/Facebook-分享-blue.svg"/></a>
+    <a href="http://www.plurk.com/?status=https%3A//github.com/goodjack/developer-roadmap-chinese"><img src="https://img.shields.io/badge/Plurk-發噗-orange.svg"/></a>
+    <a href="https://twitter.com/kamranahmedse"><img src="https://img.shields.io/badge/內容回饋-@kamranahmedse-blue.svg" /></a>
+    <a href="https://twitter.com/littlegoodjack"><img src="https://img.shields.io/badge/翻譯回饋-@littlegoodjack-blue.svg" /></a>
+  </p>
+  <br>
+</p>
 
-> 2018 年成為 Web 開發人員的路線圖
-
-在下方，你會看到一系列的圖表，展示為了成為前端、後端或 DevOps 開發人員，你可以採取的路徑和你會想採用的技術。我為我的一位老教授做了這些圖表，他想和大學生分享一些東西，給他們一個觀點。
+在下方，你會看到一系列的圖表，展示為了成為前端、後端或 DevOps 開發人員，你可以採取的路徑和你會想採用的技術。我為我的一位老教授做了這些圖表，他想和大學生分享一些東西，給他們一個觀點；在這裡分享它們以幫助社群。
 
 <sub>看看我的[部落格](http://kamranahmed.info)，然後來 [Twitter](https://twitter.com/kamranahmedse) 說聲 "hi"。</sub><br>
 <sub>（譯註：也歡迎來逛逛譯者的[部落格](http://goodjack.blogspot.com/)，然後來 [Twitter](https://twitter.com/littlegoodjack) 打個招呼 :P）</sub>
 
-## 🌏 台灣正體中文翻譯狀態
+## 台灣正體中文翻譯狀態
 
 ### 狀態徽章
 
@@ -16,9 +30,18 @@
 | [![](https://img.shields.io/github/last-commit/kamranahmedse/developer-roadmap.svg?style=for-the-badge)](https://github.com/kamranahmedse/developer-roadmap) | [![](https://img.shields.io/github/last-commit/goodjack/developer-roadmap-chinese.svg?style=for-the-badge)](https://github.com/goodjack/developer-roadmap-chinese)
 
 ### 更新日誌
+* [`08303c0`](https://github.com/kamranahmedse/developer-roadmap/tree/08303c062316bd3c903dcbd4d38cf31ca1b705bc) 2019 年新版路線圖
+    * 介紹改版：
+        * 新增 SOLID、KISS、YAGNI
+        * 新增授權條款
+        * 新增語意化版本
+    * 前端改版：
+        * 伺服器端渲染推薦 React.js
+        * 擴充測試段落並推薦 Jest、Enzyme、Cypress
+        * 新增 Web API、JS 中的 CSS、靜態網站產生器、桌面及手機應用程式、Web Assembly 等段落。
 * [`67a72aa`](https://github.com/kamranahmedse/developer-roadmap/commit/67a72aab113e79c11e292ada394606f079f6a263) 新增 DevOps 容器協作，並推薦 Kubernetes。
 
-## 💬 譯者前言
+## 譯者前言
 嗨大家好我是小克 👋，從 2017 年開始注意到這個 repo 覺得獲益良多，所以就試著翻譯看看，分享給更多需要的人。由於這裡是翻譯 repo，關於內容的任何建議，推薦你直接回饋給 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)，當然需要我協助也是可以的 :D
 
 這裡的中文都盡量使用 **台灣用語及術語**，資訊相關的術語都會在翻譯旁保留原文供參考。中文排版皆盡可能地依循 [**中文文案排版指北**](https://github.com/sparanoid/chinese-copywriting-guidelines)（若有不符的地方請跟我說）。
@@ -32,21 +55,21 @@
 > <sub>小小的推廣拙作：[小克的 Visual Studio Code 必裝擴充套件（Extensions）私藏推薦](http://goodjack.blogspot.com/2018/03/visual-studio-code-extensions.html)</sub>
 
 ## 免責聲明
-> 這個路線圖的目的是給你一個輪廓，並在你困惑接下來該學什麼的時候指導你。而不是鼓勵你學習很潮很流行的東西。你應該要更加了解，為什麼某個工具會比其他的工具更適合用在一些情況，並記住潮和流行，從來就不代表它是最適合完成任務的工具。
+> 這些路線圖的目的是給你一個輪廓，並在你困惑接下來該學什麼的時候指導你。而不是鼓勵你學習很潮很流行的東西。你應該要更加了解，為什麼某個工具會比其他的工具更適合用在一些情況，並記住潮和流行，從來就不代表它是最適合完成任務的工具。
 
-## 🚀 介紹
+## 介紹
 
 ![Web 開發人員路線圖介紹](./chinese-version/images/intro.png)
 
-## 🎨 前端 Frontend 路線圖
+## 前端 Frontend 路線圖
 
 ![前端 Frontend 路線圖](./chinese-version/images/frontend.png)
 
-## 👽 後端 Back-end 路線圖
+## 後端 Back-end 路線圖
 
 ![後端 Back-end 路線圖](./chinese-version/images/backend.png)
 
-## 👷 DevOps 路線圖
+## DevOps 路線圖
 
 ![DevOps 路線圖](./chinese-version/images/devops.png)
 
